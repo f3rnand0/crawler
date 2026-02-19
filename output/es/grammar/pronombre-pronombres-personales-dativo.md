@@ -1,0 +1,37 @@
+# Pron. personales: dativo
+
+**URL:** https://learngerman.dw.com/es/pronombres-personales-dativo/gr-50101561
+
+**ID:** 50101561
+
+**Category:** Pronombre
+
+## Content
+
+**Pronombres personales en dativo**  
+  
+Los pronombres personales pueden adoptar otros casos además del nominativo. Por ejemplo, un pronombre personal puede ir en acusativo tras ciertas preposiciones o verbos. Otras preposiciones o verbos requieren dativo.
+
+Nominativo: _Vermisst**du** spanisches Essen?_
+
+Acusativo: _Wir haben für**dich** Paella gekocht._
+
+Dativo: _Schmeckt**dir** die Paella?_
+
+Nominativo | Acusativo | Dativo  
+---|---|---  
+ich | mich | mir  
+du | dich | dir  
+er | ihn | ihm  
+sie | sie | ihr  
+es | es | ihm  
+wir | uns | uns  
+ihr | euch | euch  
+sie | sie | ihnen  
+Sie | Sie | Ihnen
+
+
+---
+*Category: Pronombre*  
+*Grammar ID: 50101561*  
+*Source URL: https://learngerman.dw.com/es/pronombres-personales-dativo/gr-50101561*

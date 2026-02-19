@@ -1,0 +1,31 @@
+# Nominalización
+
+**URL:** https://learngerman.dw.com/es/nominalización/gr-50097890
+
+**ID:** 50097890
+
+**Category:** Sustantivos y artículos
+
+## Content
+
+Los verbos suelen describir una acción, un proceso o un estado. También se pueden convertir en nombres, es decir, pueden ser nominalizados. Para ello simplemente se añade el artículo neutro _das_ al infinitivo. Los verbos nominalizados siempre son neutros y, como nombres que son, se declinan y se escriben con mayúscula inicial.
+
+Ejemplos:
+
+**grillen - > das Grillen**
+
+_Yanis findet das Grillen wichtiger als das Training._
+
+**essen - > das Essen**
+
+_Nico soll die Tabletten nach dem Essen nehmen._
+
+**schlafen gehen - > das Schlafengehen**
+
+_Nico soll die Salbe vor dem Schlafengehen benutzen._
+
+
+---
+*Category: Sustantivos y artículos*  
+*Grammar ID: 50097890*  
+*Source URL: https://learngerman.dw.com/es/nominalización/gr-50097890*

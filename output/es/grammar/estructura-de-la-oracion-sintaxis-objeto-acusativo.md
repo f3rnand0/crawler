@@ -1,0 +1,34 @@
+# Sintaxis: objeto acusativo
+
+**URL:** https://learngerman.dw.com/es/sintaxis-objeto-acusativo/gr-49864402
+
+**ID:** 49864402
+
+**Category:** Estructura de la oración
+
+## Content
+
+Muchos verbos van acompañados no solo por un sujeto, sino también por otros complementos. Algunos verbos incluso requieren de esos complementos para que la frase tenga sentido. Esos complementos se llaman objetos. Estos pueden ser seres vivos, cosas o situaciones.  
+  
+Imagen: DW
+
+En alemán, muchos verbos requieren de un objeto que va en acusativo. Cuando el objeto en acusativo tiene un artículo, este se ve de la siguiente manera:
+
+Masculino | de**n** /ein**en**  
+---|---  
+Femenino | die/eine  
+Neutro | das/ein  
+Plural | die/-  
+  
+El objeto en acusativo responde a las preguntas _Wen?_ , cuando se trata de personas y _Was?_ , cuando se trata de cosas o situaciones.
+
+Algunos de los verbos que requieren un complemento en acusativo son: _essen, trinken, nehmen, suchen,_ _kennen, machen, lieben, anrufen, besuchen, besichtigen…_
+
+Términos gramaticales en alemán: das Objekt: el objeto se refiere a un ser vivo, a un objeto o a una situación, que representa la finalidad del verbo. El objeto también recibe el nombre de complemento. Por lo general, es un sustantivo o un pronombre. Un sustantivo puede tener diferentes funciones en una frase. Puede ser, por ejemplo, sujeto o complemento. Dependiendo de la función que tenga en la frase, su forma cambia. En los cambios en el artículo se puede reconocer la función. En alemán existen cuatro formas o categorías que se denominan  _Kasus_. Uno de estos casos es el acusativo. der Akkusativ: la mayoría de los objetos están en acusativo. Los artículos en acusativo son: den/einen, die/eine, das/ein, die/-.  
+---
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 49864402*  
+*Source URL: https://learngerman.dw.com/es/sintaxis-objeto-acusativo/gr-49864402*

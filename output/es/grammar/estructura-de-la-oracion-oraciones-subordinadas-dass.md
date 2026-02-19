@@ -1,0 +1,38 @@
+# Oraciones subordinadas: dass
+
+**URL:** https://learngerman.dw.com/es/oraciones-subordinadas-dass/gr-50179023
+
+**ID:** 50179023
+
+**Category:** Estructura de la oración
+
+## Content
+
+**_Tarek versteht, dass Nico mit den Händen arbeiten will._**  
+  
+Una **oración subordinada** , _Nebensatz_ en alemán, no puede estar sola. Depende de una oración principal o de otra frase subordinada. La oración principal y la subordinada deben ir separadas por una coma. En la oración subordinada, el verbo conjugado va casi siempre al final. Con frecuencia, las subordinadas están relacionadas con las principales por palabras introductorias como la conjunción _dass_.
+
+No todas las oraciones principales o subordinadas permiten construir una oración subordinada con _dass_. Para que sea posible se necesitan determinadas expresiones.
+
+Algunas de esas expresiones son…
+
+… frases enunciativas de estilo indirecto en las que alguien expresa, por ejemplo, lo que otra persona ha dicho, oído o leído:  
+**_Nico sagt_** _, dass er das Studium hasst._
+
+… verbos que expresan percepción, pensamiento, sentimiento, conocimiento o intención:  
+**_Nico glaubt_** _, dass seine Eltern ihn nicht verstehen._
+
+… expresiones con adjetivo + _sein_ :  
+**_Nico ist sicher_** _, dass er in Deutschland bleiben will._
+
+… expresiones impersonales:  
+**_Es ist wichtig_** _, dass Nico eine Arbeit findet._
+
+Términos gramaticales en alemán: die Konjunktion: las conjunciones relacionan frases o partes de frases entre sí. Hay dos tipos de conjunciones: 1\. Las conjunciones que relacionan frases o partes de frases de la misma categoría: _und_ , _oder_ , _aber_. Se llaman también conjunciones coordinantes. 2\. Las conjunciones que relacionan la oración subordinada con la principal, como _weil_ , _dass_. Se llaman también conjunciones subordinantes.  
+---
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 50179023*  
+*Source URL: https://learngerman.dw.com/es/oraciones-subordinadas-dass/gr-50179023*

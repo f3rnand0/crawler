@@ -1,0 +1,82 @@
+# Konjunktiv II: pedir (2)
+
+**URL:** https://learngerman.dw.com/es/el-konjunktiv-ii-pedir-2/gr-51398607
+
+**ID:** 51398607
+
+**Category:** Verbos
+
+## Content
+
+_Wir**hätten gern** die Rechnung._  
+**_Hätten_** _Sie kurz Zeit? Ich**würde gern** etwas mit Ihnen besprechen._  
+**_Es wäre nett_** _, wenn Sie mir einen Kaffee mitbringen._  
+  
+Para expresar preguntas o pedidos de forma amable puedes utilizar el _Konjunktiv II_ de los verbos _haben_ , _werden_ o _sein_. Este tipo de pedidos se pueden formular como aseveración o como pregunta. Al pedir en un restaurante se suele usar este tipo de construcciones:
+
+_Ich hätte gern +_ etwas (acusativo)
+
+Cuando quieres expresar amablemente lo que te gustaría hacer, puedes decir:  
+_Ich würde gern_ \+ verbo
+
+Esta clase de solicitudes se formula también con _sein_. En ese caso se usa el pronombre impersonal _es_ y una frase subordinada introducida por _wenn_ :
+
+_Es wäre nett/schön/toll …, wenn …_
+
+Aquí tienes las formas del _Konjunktiv II_ de _haben, werden_ y _sein_.
+
+_haben_(en _Konjunktiv II_)
+
+_Singular:_ |   
+---|---  
+1ª persona | _**ich hätte**_  
+2ª persona | **_du hättest_**  
+3ª persona | **_es/sie/es hätte_**  
+_Plural:_ |   
+1ª persona | **_wir hätten_**  
+2ª persona | **_ihr hättet_**  
+3ª persona | **_sie hätten_**  
+_Formal:_ | **_Sie hätten_**  
+  
+_werden_(en _Konjunktiv II_)_:_
+
+_Singular:_ |   
+---|---  
+1ª persona | **_ich würde_**  
+2ª persona | **_du würdest_**  
+3ª persona | **_er/sie/es würde_**  
+_Plural:_ |   
+1ª persona | _**wir würden**_  
+2ª persona | **_ihr würdet_**  
+3ª persona | **_sie würden_**  
+_Formal:_ | **_Sie würden_**  
+  
+_sein_(en _Konjunktiv II_)_:_
+
+_Singular:_ |   
+---|---  
+1ª persona | **_ich wäre_**  
+2ª persona | **_du wär(e)st_**  
+3ª persona | **_er/sie/es wäre_**  
+_Plural:_ |   
+1ª persona |  **_wir wären_**  
+2ª persona | **_ihr wär(e)t_**  
+3ª persona | **_sie wären_**  
+_Formal:_ | **_Sie wären_**  
+  
+Consejo:
+
+Compara en estos verbos el _Präteritum_ y el _Konjunktiv II._
+
+Präteritum | **Konjunktiv II**  
+---|---  
+_ich konnte_ | **_ich könnte_**  
+_ich war_ | **_ich wäre_**  
+_ich wurde_ | **_ich würde_**  
+_ich hatte_ | **_ich hätte_**
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 51398607*  
+*Source URL: https://learngerman.dw.com/es/el-konjunktiv-ii-pedir-2/gr-51398607*

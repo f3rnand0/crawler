@@ -1,0 +1,48 @@
+# Sintaxis: pronombres
+
+**URL:** https://learngerman.dw.com/es/sintaxis-pronombres/gr-51503985
+
+**ID:** 51503985
+
+**Category:** Estructura de la oración
+
+## Content
+
+**Verbos con objetos en dativo y en acusativo: pronombres como objetos**  
+  
+Tanto el objeto en dativo como el objeto en acusativo pueden ser un pronombre, siempre y cuando se conozca la cosa o la persona de la que se trata.
+
+Un pronombre puede reemplazar todo un objeto en dativo:
+
+_Was schenkst du**deinem Bruder**?  
+Ich schenke **ihm** ein Buch._
+
+_Was schenkst du**deiner Schwester**?  
+Ich schenke **ihr** einen Fußball._
+
+_Was schenkst du**deinen Großeltern**?  
+Ich schenke **ihnen** ein Familienfoto._
+
+De la misma manera, un pronombre puede reemplazar un objeto en acusativo. En este caso hay que tener en cuenta que debe ir delante del objeto en dativo, independientemente de que este sea un pronombre o un nombre.
+
+Imagen: DW Imagen: DW
+
+Repasa los pronombres personales en acusativo.
+
+Nominativo | Acusativo  
+---|---  
+ich | mich  
+du | dich  
+er | ihn  
+sie | sie  
+es | es  
+wir | uns  
+ihr | euch  
+sie | sie  
+Sie | Sie
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 51503985*  
+*Source URL: https://learngerman.dw.com/es/sintaxis-pronombres/gr-51503985*

@@ -1,0 +1,69 @@
+# Temporales: wann...?
+
+**URL:** https://learngerman.dw.com/es/complementos-temporales-wann/gr-50094104
+
+**ID:** 50094104
+
+**Category:** Números
+
+## Content
+
+Los complementos temporales responden a la pregunta _wann…?_ :  
+  
+_Wann spielt ihr Fußball?_
+
+Cuando se quiere indicar la hora se responde…
+
+  * con **_um_** cuando es un momento concreto:
+
+
+
+_ Das Fußballtraining beginnt **um** zwei Uhr._
+
+  * con **_von… bis…_** cuando se refiere a un período:
+
+
+
+_ Wir spielen **von** zwei **bis** vier Uhr Fußball._
+
+Cuando se quieren indicar días de la semana se responde con…
+
+  * **_am_** cuando se trata de un evento puntual:
+
+
+
+_ Am Freitag spielen wir Fußball._
+
+  * con un adverbio temporal cuando se trata de un evento que ocurre regularmente:
+
+
+
+_** Freitags** spielen wir Fußball. (= **Jeden Freitag** spielen wir Fußball.)_
+
+  * **_von... bis..._** cuando se trata de un período:
+
+
+
+_ Ich muss von Montag bis Freitag arbeiten._
+
+Cuando se quieren indicar meses y estaciones se responde con…
+
+  * **_im_** cuando se trata de un evento puntual:
+
+
+
+_ Im Januar fahre ich Ski._
+
+_ Im Sommer gehe ich regelmäßig joggen._
+
+  * **_von… bis…_** cuando se trata de un período:
+
+
+
+_ Von Oktober bis April hat das Schwimmbad geschlossen._
+
+
+---
+*Category: Números*  
+*Grammar ID: 50094104*  
+*Source URL: https://learngerman.dw.com/es/complementos-temporales-wann/gr-50094104*

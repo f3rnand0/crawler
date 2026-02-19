@@ -1,0 +1,55 @@
+# Präteritum: müssen, dürfen
+
+**URL:** https://learngerman.dw.com/es/el-präteritum-müssen-y-dürfen/gr-50498510
+
+**ID:** 50498510
+
+**Category:** Conjugaciones
+
+## Content
+
+_Jacques**musste** seinen Eltern früher viel helfen. _
+
+_Inge**durfte** früher erst nach der Hausarbeit spielen._
+
+**El  _Präteritum_**
+
+El _Präteritum_ es un tiempo verbal que expresa una acción pasada. Se usa, sobre todo, en el lenguaje escrito, p. ej., en artículos periodísticos y textos literarios. El _Präteritum_ de los verbos auxiliares _sein_ , _haben_ y de los verbos modales, como _müssen_ y _dürfen,_ se usa también en el lenguaje hablado.
+
+**El**** _Präteritum_****de los verbos modales:****_müssen, dürfen_**
+
+El _Präteritum_ de los verbos modales se construye añadiendo _-te-_ a la raíz verbal y, en caso necesario, la terminación personal. Los verbos modales no llevan diéresis en _Präteritum_. En la siguiente tabla se recogen las formas de los verbos modales _müssen_ y _dürfen_ en _Präteritum_ :
+
+  
+_müssen_(en _Präteritum_)_:_
+
+_Singular_ |   
+---|---  
+1ª persona | _ich muss**te**_  
+2ª persona | _du muss**te** st_  
+3ª persona | _er/sie/es muss**te**_  
+_Plural_ |   
+1ª persona | _wir muss**te** n_  
+2ª persona | _ihr muss**te** t_  
+3ª persona | _sie muss**te** n_  
+_Formal_ | _Sie muss**te** n_  
+  
+  
+_dürfen_(en _Präteritum_)_:_
+
+_Singular_ |   
+---|---  
+1ª persona | _ich durf**te**_  
+2ª persona | _du durf**te** st_  
+3ª persona | _er/sie/es durf**te**_  
+_Plural_ |   
+1ª persona | _wir durf**te** n_  
+2ª persona | _ihr durf**te** t_  
+3ª persona | _sie durf**te** n_  
+_Formal_ | _Sie durf**te** n_
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 50498510*  
+*Source URL: https://learngerman.dw.com/es/el-präteritum-müssen-y-dürfen/gr-50498510*

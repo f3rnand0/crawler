@@ -1,0 +1,37 @@
+# Indicaciones
+
+**URL:** https://learngerman.dw.com/es/indicaciones/gr-50053022
+
+**ID:** 50053022
+
+**Category:** Verbos
+
+## Content
+
+Hay varias maneras de dar indicaciones. Una forma muy común es el imperativo.  
+  
+**Imperativo formal**
+
+Cuando se trata con _Sie_ a una persona, se utiliza el imperativo formal. Este se forma anteponiendo el verbo conjugado al pronombre personal.
+
+**Schneiden** | Sie |  _den Käse in Würfel._  
+---|---|---  
+**Legen** | Sie |  _den Käse auf die Pizza._  
+**Schieben** | Sie | _die Pizza in den Ofen._  
+  
+**Infinitivo**
+
+En las indicaciones escritas, por ejemplo en recetas de cocina o en instrucciones de uso, a veces se usa el infinitivo. En esos casos basta con prescindir del sujeto. El verbo en infinitivo se coloca al final de la frase.
+
+_Den Käse in Würfel**schneiden.**  
+Den Käse auf die Pizza**legen.**  
+Die Pizza in den Ofen**schieben.**_
+
+Términos gramaticales en alemán: der Infinitiv: el infinitivo es la forma original del verbo sin conjugar. Un verbo suele estar en infinitivo en las listas de vocabulario y en los diccionarios. La mayor parte de los verbos alemanes en infinitivo acaban en _–(e)n_.  
+---
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 50053022*  
+*Source URL: https://learngerman.dw.com/es/indicaciones/gr-50053022*

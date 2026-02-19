@@ -1,0 +1,60 @@
+# Artículo negativo
+
+**URL:** https://learngerman.dw.com/es/artículo-negativo/gr-49864513
+
+**ID:** 49864513
+
+**Category:** Negación
+
+## Content
+
+Con la palabra _kein_ se niegan nombres que tienen un artículo indeterminado o no tienen artículo.
+
+**Singular**
+
+Las terminaciones de _kein_ son, en singular, idénticas a las terminaciones del artículo indeterminado _ein_.
+
+Imagen: DW Imagen: DW Imagen: DW
+
+Lo mismo sirve para el acusativo:
+
+Imagen: DW
+
+**Plural**
+
+Un nombre que no lleva artículo en plural, en la negación lleva _keine_.
+
+Imagen: DW | Nominativo | Acusativo  
+---|---|---  
+Masculino  
+(_der_) | ein  
+kein | einen  
+keinen  
+Femenino  
+(_die_) | eine  
+keine | eine  
+keine  
+Neutro  
+(_das_) | ein  
+kein | ein  
+kein  
+Plural  
+(_die_) | -  
+keine | -  
+keine  
+  
+**Singular sin artículo **
+
+Los nombres que en singular no llevan artículo, se pueden negar con un _kein_.
+
+_Isst Nina Schinken? – Nein, Nina isst**keinen** Schinken._
+
+_Trinkst du Cola? – Nein, ich trinke**keine** Cola._
+
+_Möchtest du Bier? – Nein, ich möchte**kein** Bier._
+
+
+---
+*Category: Negación*  
+*Grammar ID: 49864513*  
+*Source URL: https://learngerman.dw.com/es/artículo-negativo/gr-49864513*

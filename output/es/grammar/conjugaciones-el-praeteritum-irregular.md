@@ -1,0 +1,49 @@
+# Präteritum irregular
+
+**URL:** https://learngerman.dw.com/es/el-präteritum-irregular/gr-51420430
+
+**ID:** 51420430
+
+**Category:** Conjugaciones
+
+## Content
+
+Los verbos irregulares también los conoces. Cuando revisamos el _Perfekt_ viste que el _Partizip II_ de los irregulares termina en _-en_ y que en la raíz, a menudo, hay una alteración de vocal.  
+  
+La vocal de la raíz de esos verbos también cambia en _Präteritum_ :
+
+schr**ei** ben: _Johann Wolfgang Goethe schr**ie** b viele Gedichte und Theaterstücke._
+
+Contrariamente a lo que sucede con los verbos regulares, en los irregulares, entre la raíz y la terminación personal no se intercala _-(e)te-._ En la primera y tercera persona del singular no se añade terminación personal.
+
+El verbo se conjuga así:
+
+_Singular:_ |   
+---|---  
+1ª persona | ich schrieb  
+2ª persona | du schrieb** _st_**  
+3ª persona | er/sie/es schrieb  
+_Plural:_ |   
+1ª persona | wir schrieb** _en_**  
+2ª persona | ihr schrieb** _t_**  
+3ª persona | sie schrieb** _en_**  
+_formal:_ | Sie schrieb** _en_**  
+  
+Pon atención a que las vocales de la raíz en _Präteritum_ y en _Partizip II_ pueden ser iguales, aunque en distinto orden, por ejemplo, _schreiben – schrieb – geschrieben_ , pero que también pueden ser diferentes, por ejemplo, _finden – fand – gefunden._ Estas variantes de la raíz verbal debes memorizarlas junto con el infinitivo de cada verbo irregular.
+
+Existen también algunos casos en los que la raíz tiene consonantes diferentes:
+
+k**omm** en:_Nach seiner Italienreise k**am** Goethe 1778 zurück nach Weimar._
+
+g**eh** en:_Goethe g**ing** gerne spazieren, weil er sich für die Natur interessierte._
+
+**essen** : _Goethe liebte gutes Essen und**aß** gerne Fleisch._
+
+Términos gramaticales en alemán: regelmäßig: una forma gramatical se considera regular cuando su estructura sigue un patrón definido, idéntico para todas las construcciones de su misma clase. unregelmäßig: las formas irregulares hay que memorizarlas porque no siguen las reglas establecidas a partir de la forma base y es difícil establecer un patrón para ello. Las formas irregulares son diferentes a la mayoría y/o tienen peculiaridades que no se contemplan en la regla general.  
+---
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 51420430*  
+*Source URL: https://learngerman.dw.com/es/el-präteritum-irregular/gr-51420430*

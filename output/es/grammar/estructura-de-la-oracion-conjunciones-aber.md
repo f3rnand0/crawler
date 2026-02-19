@@ -1,0 +1,34 @@
+# Conjunciones: aber
+
+**URL:** https://learngerman.dw.com/es/conjunciones-aber/gr-50199395
+
+**ID:** 50199395
+
+**Category:** Estructura de la oración
+
+## Content
+
+**Unir frases principales con**** _aber_**
+
+La conjunción _aber_ puede enlazar dos frases principales:
+
+_Zuerst wollte ich fliegen. Der Flug ist ausgefallen._
+
+_Zuerst wollte ich fliegen,_**aber** _der Flug ist ausgefallen._
+
+Cuando dos frases se unen con _aber_ , la segunda frase restringe lo afirmado en la primera o expresa una oposición. El orden de las palabras dentro de las frases no se altera.
+
+Si el sujeto y el verbo principal son iguales se pueden omitir en la segunda frase:
+
+_Ich habe ein Auto. Ich habe kein Fahrrad._
+
+_Ich habe ein Auto,**aber** (ich habe) kein Fahrrad._
+
+Términos gramaticales en alemán: die Konjunktion: las conjunciones son palabras que unen frases u oraciones. Hay dos tipos de conjunciones. 1\. Conjunciones que unen dos oraciones independientes, por ejemplo: _und_ , _oder_ , _aber_. Se llaman conjunciones coordinantes. 2\. Conjunciones que unen una frase principal con una subordinada, es decir, con una frase que no funciona independientemente. Por ejemplo _weil_ , _dass_. Se llaman conjunciones subordinantes.  
+---
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 50199395*  
+*Source URL: https://learngerman.dw.com/es/conjunciones-aber/gr-50199395*

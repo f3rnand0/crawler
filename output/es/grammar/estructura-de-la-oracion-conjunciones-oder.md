@@ -1,0 +1,29 @@
+# Conjunciones: oder
+
+**URL:** https://learngerman.dw.com/es/conjunciones-oder/gr-50207775
+
+**ID:** 50207775
+
+**Category:** Estructura de la oración
+
+## Content
+
+**Conexión de dos oraciones principales con**** _oder_**  
+  
+La conjunción _oder_ puede unir dos frases principales:
+
+_Nehmen Sie das Zimmer für eine Nacht? Bleiben Sie länger?  
+Nehmen Sie das Zimmer für eine Nacht **oder** bleiben Sie länger?_
+
+Cuando se conectan dos frases con _oder_ se expresan dos opciones. Estas opciones, por lo general, son excluyen la una a la otra. El orden de las palabras no se altera.
+
+Si el sujeto y el verbo conjugado son idénticos en ambas frases, en la segunda se pueden omitir:
+
+_Möchten Sie ein Einzelzimmer? Möchten Sie ein Doppelzimmer?  
+Möchten Sie ein Einzelzimmer **oder** ein Doppelzimmer?_
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 50207775*  
+*Source URL: https://learngerman.dw.com/es/conjunciones-oder/gr-50207775*

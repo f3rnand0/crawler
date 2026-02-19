@@ -1,0 +1,56 @@
+# Conjugación del presente
+
+**URL:** https://learngerman.dw.com/es/conjugación-del-presente-2/gr-49752882
+
+**ID:** 49752882
+
+**Category:** Conjugaciones
+
+## Content
+
+**El**** _Präsens_****o presente es el tiempo verbal para hablar de situaciones actuales. En el presente, la mayoría de los verbos se conjuga de la siguiente manera:**  
+  
+Ejemplo: _kommen_
+
+_Singular:_ | 1ª persona | **ich** komm**e**  
+---|---|---  
+| 2ª persona | **du** komm**st**  
+| 3ª persona | **er** /**sie** /**es** komm**t**  
+_Plural:_ | 1ª persona | **wir** komm**en**  
+| 2ª persona | **ihr** komm**t**  
+| 3ª persona | **sie** komm**en**  
+_Formal:_ |  | **Sie** komm**en**  
+  
+La 3ª persona del plural y el tratamiento formal se diferencian solamente en que el _Sie_ formal se escribe con mayúscula inicial.
+
+Cuando la raíz verbal termina en _-d_ o _–t_ , entre la raíz y la terminación se intercala una _-e-._
+
+Ejemplo: _arbeiten_ (trabajar)
+
+_Singular:_ | 1ª persona | **ich** arbeit**e**  
+---|---|---  
+| 2ª persona | **du** arbeit**e****st**  
+| 3ª persona | **er** /**sie** /**es** arbeit _**e**_**t**  
+Plural | 1ª persona | **wir** arbeit**en**  
+| 2ª persona | **ihr** arbeit _**e**_**t**  
+| 3ª persona | **sie** arbeit**en**  
+_Formal:_ |  | **Sie** arbeit**en**  
+  
+Algunos verbos tienen conjugaciones irregulares.
+
+Ejemplo: _sein_
+
+_Singular:_ | 1ª persona | **ich bin**  
+---|---|---  
+| 2ª persona | **du bist**  
+| 3ª persona | **er/sie/es ist**  
+_Plural:_ | 1ª persona | **wir sind**  
+| 2ª persona | **ihr seid**  
+| 3ª persona | **sie sind**  
+_Formal:_ |  | **Sie sind**
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 49752882*  
+*Source URL: https://learngerman.dw.com/es/conjugación-del-presente-2/gr-49752882*

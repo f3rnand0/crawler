@@ -1,0 +1,31 @@
+# ¿Präteritum o Perfekt?
+
+**URL:** https://learngerman.dw.com/es/präteritum-o-perfekt/gr-50053145
+
+**ID:** 50053145
+
+**Category:** Conjugaciones
+
+## Content
+
+Para expresar una acción pasada se puede usar el _Präteritum_ o el _Perfekt_. Básicamente, ambas formas temporales son correctas. La mayoría de las veces se prefiere usar una de las dos.
+
+El _Präteritum_ …
+
+  * se usa sobre todo en el lenguaje escrito, p. ej., en artículos periodísticos y literarios.
+  * de _sein_ , _haben_ y de los verbos modales se usa también en el lenguaje hablado.
+
+
+
+El _Perfekt_ …
+
+  * se utiliza sobre todo en el lenguaje hablado y en textos informales (p. ej. e-mails privados).
+  * de _sein_ , _haben_ y los verbos modales apenas se usa.
+
+
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 50053145*  
+*Source URL: https://learngerman.dw.com/es/präteritum-o-perfekt/gr-50053145*

@@ -1,0 +1,36 @@
+# Verbos impersonales
+
+**URL:** https://learngerman.dw.com/es/verbos-impersonales/gr-50498307
+
+**ID:** 50498307
+
+**Category:** Verbos
+
+## Content
+
+**Verbos impersonales**
+
+Los verbos impersonales van siempre junto al pronombre impersonal _es_. El pronombre _es_ tiene aquí una función meramente formal como sujeto, pero sin poseer un verdadero significado. _Es_ no se refiere a ningún nombre en concreto.
+
+Ya conoces frases que describen fenómenos meteorológicos:
+
+_Es**regnet**.  
+Es **schneit**._  
+
+
+**Uso de verbos impersonales:_es gibt / es gab_**
+
+Algunos verbos pueden ser tanto personales como impersonales. Un ejemplo es el verbo _geben_ , que puede usarse de manera personal con el complemento en acusativo y dativo, _jemandem etwas geben_ , o impersonal con _es_ y complemento en acusativo. Con la frase   _Es gibt_ \+ acusativo se expresa que algo existe o está disponible.
+
+**_Es gibt_** _viele Angebote.  
+Auf dem Land **gibt es** keine Kinos._  
+  
+En el pasado se usa en vez de _es gibt_ la forma _es gab_ :  
+**_Gab es_** _das Rathaus früher schon? – Ja, das**gab es**._  
+**_Es gab_** _ früher noch nicht so viele Autos. _
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 50498307*  
+*Source URL: https://learngerman.dw.com/es/verbos-impersonales/gr-50498307*

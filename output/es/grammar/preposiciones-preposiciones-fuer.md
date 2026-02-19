@@ -1,0 +1,21 @@
+# Preposiciones: für
+
+**URL:** https://learngerman.dw.com/es/preposiciones-für/gr-50081892
+
+**ID:** 50081892
+
+**Category:** Preposiciones
+
+## Content
+
+Imagen: DW  
+  
+_Ich habe ein Geschenk für**dich**. Hier, ein Notizbuch. Für **alle neuen Wörter** auf Deutsch._
+
+La preposición _für_ se utiliza, por ejemplo, para describir el objetivo o el beneficiario de una acción. Rige acusativo. Tanto los nombres como los pronombres que vienen después de _für_ tienen que estar en acusativo.
+
+
+---
+*Category: Preposiciones*  
+*Grammar ID: 50081892*  
+*Source URL: https://learngerman.dw.com/es/preposiciones-für/gr-50081892*

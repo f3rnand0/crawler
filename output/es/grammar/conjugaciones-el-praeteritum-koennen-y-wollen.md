@@ -1,0 +1,46 @@
+# Präteritum: können, wollen
+
+**URL:** https://learngerman.dw.com/es/el-präteritum-können-y-wollen/gr-50498455
+
+**ID:** 50498455
+
+**Category:** Conjugaciones
+
+## Content
+
+_Nicos Großmutter**konnte** nicht studieren.  
+Selmas Großmutter **wollte** zur Schule gehen._  
+  
+El _Präteritum_ de los verbos modales se construye añadiendo _-te_ a la raíz verbal y la terminación de la persona. Los verbos modales no tienen diéresis en _Präteritum_. Aquí puedes ver las formas de los verbos modales _können_ y _wollen_ en _Präteritum_ :
+
+_können_(en _Präteritum_)_:_
+
+_Singular_ |   
+---|---  
+1ª persona | _ich konn**te**_  
+2ª persona | _du konn**test**_  
+3ª persona | _er/sie/es konn**te**_  
+_Plural_ |   
+1ª persona | _wir konn**ten**_  
+2ª persona | _ihr konn**tet**_  
+3ª persona | _sie konn**ten**_  
+_Formal_ | _Sie konn**ten**_  
+  
+_wollen_(en _Präteritum_)_:_
+
+_Singular_ |   
+---|---  
+1ª persona | ich woll**te**  
+2ª persona | du woll**test**  
+3ª persona | er/sie/es woll**te**  
+_Plural_ |   
+1ª persona | wir woll**ten**  
+2ª persona | ihr woll**tet**  
+3ª persona | sie woll**ten**  
+_Formal_ | Sie woll**ten**
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 50498455*  
+*Source URL: https://learngerman.dw.com/es/el-präteritum-können-y-wollen/gr-50498455*

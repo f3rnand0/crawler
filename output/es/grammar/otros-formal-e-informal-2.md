@@ -1,0 +1,43 @@
+# Formal e informal
+
+**URL:** https://learngerman.dw.com/es/formal-e-informal-2/gr-49605958
+
+**ID:** 49605958
+
+**Category:** Otros
+
+## Content
+
+**Despedida informal**
+
+Imagen: DW
+
+_Tschüss, Martina!_ – _Mach's gut!_
+
+_Bis bald! – Tschüss!_
+
+  * La despedida informal se usa entre familiares, amigos y conocidos; a menudo, también entre compañeros de trabajo.
+  * Para dirigirse a los amigos, los conocidos y los familiares se utiliza el nombre de pila.
+
+
+
+**Despedida formal**
+
+Imagen: DW
+
+****
+
+_Auf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!_
+
+  * La despedida formal se utiliza con adultos desconocidos, en situaciones de negocios, cuando haces trámites en oficinas o en establecimientos comerciales (mercados, supermercados, tiendas).
+  * Formalmente, se anteponen al apellido la palabra _Herr_ en hombres y _Frau_ en mujeres.
+  * Si no estás seguro cuál es el trato adecuado, lo mejor es escoger la despedida formal.
+
+Términos gramaticales en alemán: informell: el lenguaje informal se usa en conversaciones con familiares y amigos. formell: el lenguaje formal se emplea en el trabajo, los negocios, los trámites y con personas desconocidas en general.  
+---
+
+
+---
+*Category: Otros*  
+*Grammar ID: 49605958*  
+*Source URL: https://learngerman.dw.com/es/formal-e-informal-2/gr-49605958*

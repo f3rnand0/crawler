@@ -1,0 +1,1657 @@
+{
+  "course": {
+    "id": 47994059,
+    "title": "Nicos Weg",
+    "url": "/es/nicos-weg/c-47994059",
+    "language": "SPANISH"
+  },
+  "lessons": [
+    {
+      "id": 49702751,
+      "title": "Hallo!",
+      "url": "/es/hallo/l-49702751",
+      "grammar_count": 1,
+      "vocabulary_count": 28,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49715549,
+      "title": "Kein Problem!",
+      "url": "/es/kein-problem/l-49715549",
+      "grammar_count": 0,
+      "vocabulary_count": 37,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49605602,
+      "title": "Tschüss!",
+      "url": "/es/tschüss/l-49605602",
+      "grammar_count": 1,
+      "vocabulary_count": 10,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49719433,
+      "title": "Von A bis Z",
+      "url": "/es/von-a-bis-z/l-49719433",
+      "grammar_count": 0,
+      "vocabulary_count": 23,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49730323,
+      "title": "Ich heiße Emma",
+      "url": "/es/ich-heiße-emma/l-49730323",
+      "grammar_count": 2,
+      "vocabulary_count": 18,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49741733,
+      "title": "Das ist Nico",
+      "url": "/es/das-ist-nico/l-49741733",
+      "grammar_count": 0,
+      "vocabulary_count": 17,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49787410,
+      "title": "Woher kommst du?",
+      "url": "/es/woher-kommst-du/l-49787410",
+      "grammar_count": 1,
+      "vocabulary_count": 33,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49746668,
+      "title": "Nico hat ein Problem",
+      "url": "/es/nico-hat-ein-problem/l-49746668",
+      "grammar_count": 4,
+      "vocabulary_count": 24,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49754892,
+      "title": "Zahlen von 1 bis 100",
+      "url": "/es/zahlen-von-1-bis-100/l-49754892",
+      "grammar_count": 2,
+      "vocabulary_count": 35,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49758812,
+      "title": "Wichtige Nummern",
+      "url": "/es/wichtige-nummern/l-49758812",
+      "grammar_count": 0,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49783989,
+      "title": "Adressen",
+      "url": "/es/adressen/l-49783989",
+      "grammar_count": 3,
+      "vocabulary_count": 12,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49799978,
+      "title": "Auf dem Amt",
+      "url": "/es/auf-dem-amt/l-49799978",
+      "grammar_count": 4,
+      "vocabulary_count": 36,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49789811,
+      "title": "Was machst du hier?",
+      "url": "/es/was-machst-du-hier/l-49789811",
+      "grammar_count": 0,
+      "vocabulary_count": 17,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49799333,
+      "title": "Was trinkst du?",
+      "url": "/es/was-trinkst-du/l-49799333",
+      "grammar_count": 2,
+      "vocabulary_count": 30,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49811316,
+      "title": "Eine Pizza bitte! ",
+      "url": "/es/eine-pizza-bitte/l-49811316",
+      "grammar_count": 1,
+      "vocabulary_count": 21,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49807416,
+      "title": "Zahlen bitte! ",
+      "url": "/es/zahlen-bitte/l-49807416",
+      "grammar_count": 0,
+      "vocabulary_count": 25,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49822240,
+      "title": "Ich war schon in Berlin",
+      "url": "/es/ich-war-schon-in-berlin/l-49822240",
+      "grammar_count": 2,
+      "vocabulary_count": 31,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49827775,
+      "title": "Wo liegt das?",
+      "url": "/es/wo-liegt-das/l-49827775",
+      "grammar_count": 1,
+      "vocabulary_count": 14,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49826670,
+      "title": "In Europa",
+      "url": "/es/in-europa/l-49826670",
+      "grammar_count": 2,
+      "vocabulary_count": 18,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49832770,
+      "title": "Andere Länder",
+      "url": "/es/andere-länder/l-49832770",
+      "grammar_count": 1,
+      "vocabulary_count": 31,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49841260,
+      "title": "Was ist das?",
+      "url": "/es/was-ist-das/l-49841260",
+      "grammar_count": 1,
+      "vocabulary_count": 15,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49843595,
+      "title": "Wem gehört das?",
+      "url": "/es/wem-gehört-das/l-49843595",
+      "grammar_count": 4,
+      "vocabulary_count": 28,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49862425,
+      "title": "Ich habe kein …",
+      "url": "/es/ich-habe-kein/l-49862425",
+      "grammar_count": 3,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49867109,
+      "title": "Das Auto ist rot",
+      "url": "/es/das-auto-ist-rot/l-49867109",
+      "grammar_count": 1,
+      "vocabulary_count": 16,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49892725,
+      "title": "So wohne ich",
+      "url": "/es/so-wohne-ich/l-49892725",
+      "grammar_count": 1,
+      "vocabulary_count": 33,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49894943,
+      "title": "Meine Wohnung",
+      "url": "/es/meine-wohnung/l-49894943",
+      "grammar_count": 1,
+      "vocabulary_count": 28,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49898917,
+      "title": "Sofa, Sessel und Tisch",
+      "url": "/es/sofa-sessel-und-tisch/l-49898917",
+      "grammar_count": 2,
+      "vocabulary_count": 34,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49926973,
+      "title": "Unser Haus",
+      "url": "/es/unser-haus/l-49926973",
+      "grammar_count": 1,
+      "vocabulary_count": 30,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49905923,
+      "title": "Emmas Tag",
+      "url": "/es/emmas-tag/l-49905923",
+      "grammar_count": 2,
+      "vocabulary_count": 25,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49910483,
+      "title": "Tageszeiten",
+      "url": "/es/tageszeiten/l-49910483",
+      "grammar_count": 2,
+      "vocabulary_count": 33,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49925939,
+      "title": "Am Sonntag koche ich",
+      "url": "/es/am-sonntag-koche-ich/l-49925939",
+      "grammar_count": 1,
+      "vocabulary_count": 29,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49929779,
+      "title": "Emmas Wochenende",
+      "url": "/es/emmas-wochenende/l-49929779",
+      "grammar_count": 2,
+      "vocabulary_count": 27,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49909395,
+      "title": "Wie spät ist es?",
+      "url": "/es/wie-spät-ist-es/l-49909395",
+      "grammar_count": 3,
+      "vocabulary_count": 27,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49928949,
+      "title": "Hast du morgen Zeit?",
+      "url": "/es/hast-du-morgen-zeit/l-49928949",
+      "grammar_count": 1,
+      "vocabulary_count": 28,
+      "regional_studies_count": 2
+    },
+    {
+      "id": 49935255,
+      "title": "Wann spielen wir?",
+      "url": "/es/wann-spielen-wir/l-49935255",
+      "grammar_count": 2,
+      "vocabulary_count": 19,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49930428,
+      "title": "Zu spät!?",
+      "url": "/es/zu-spät/l-49930428",
+      "grammar_count": 1,
+      "vocabulary_count": 26,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49942095,
+      "title": "Ich bin Lehrerin",
+      "url": "/es/ich-bin-lehrerin/l-49942095",
+      "grammar_count": 2,
+      "vocabulary_count": 42,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49942245,
+      "title": "Mein Beruf",
+      "url": "/es/mein-beruf/l-49942245",
+      "grammar_count": 2,
+      "vocabulary_count": 32,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49945552,
+      "title": "Wo ist der Aufzug?",
+      "url": "/es/wo-ist-der-aufzug/l-49945552",
+      "grammar_count": 2,
+      "vocabulary_count": 38,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49992347,
+      "title": "Traumberufe",
+      "url": "/es/traumberufe/l-49992347",
+      "grammar_count": 2,
+      "vocabulary_count": 14,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49950325,
+      "title": "Wo ist der Bahnhof?",
+      "url": "/es/wo-ist-der-bahnhof/l-49950325",
+      "grammar_count": 2,
+      "vocabulary_count": 19,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 49994814,
+      "title": "An der Ampel links",
+      "url": "/es/an-der-ampel-links/l-49994814",
+      "grammar_count": 2,
+      "vocabulary_count": 31,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50004815,
+      "title": "Mit Bus und Bahn",
+      "url": "/es/mit-bus-und-bahn/l-50004815",
+      "grammar_count": 1,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50012005,
+      "title": "Im Büro",
+      "url": "/es/im-büro/l-50012005",
+      "grammar_count": 1,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50024155,
+      "title": "Lebensmittel",
+      "url": "/es/lebensmittel/l-50024155",
+      "grammar_count": 2,
+      "vocabulary_count": 31,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50039275,
+      "title": "Ich mag (nicht)!",
+      "url": "/es/ich-mag-nicht/l-50039275",
+      "grammar_count": 3,
+      "vocabulary_count": 21,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50046984,
+      "title": "Haushaltsarbeit",
+      "url": "/es/haushaltsarbeit/l-50046984",
+      "grammar_count": 3,
+      "vocabulary_count": 32,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50042264,
+      "title": "Was macht dir Spaß?",
+      "url": "/es/was-macht-dir-spaß/l-50042264",
+      "grammar_count": 2,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50048964,
+      "title": "Mengen und Preise",
+      "url": "/es/mengen-und-preise/l-50048964",
+      "grammar_count": 1,
+      "vocabulary_count": 30,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50108517,
+      "title": "Was darf es sein?",
+      "url": "/es/was-darf-es-sein/l-50108517",
+      "grammar_count": 0,
+      "vocabulary_count": 16,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50050417,
+      "title": "Sonst noch etwas?",
+      "url": "/es/sonst-noch-etwas/l-50050417",
+      "grammar_count": 1,
+      "vocabulary_count": 13,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50050645,
+      "title": "Wie viel Mehl?",
+      "url": "/es/wie-viel-mehl/l-50050645",
+      "grammar_count": 1,
+      "vocabulary_count": 37,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50050598,
+      "title": "Wie war dein Urlaub?",
+      "url": "/es/wie-war-dein-urlaub/l-50050598",
+      "grammar_count": 3,
+      "vocabulary_count": 26,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50051887,
+      "title": "Jahreszeiten",
+      "url": "/es/jahreszeiten/l-50051887",
+      "grammar_count": 3,
+      "vocabulary_count": 31,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50095025,
+      "title": "Der Ausflug",
+      "url": "/es/der-ausflug/l-50095025",
+      "grammar_count": 3,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50053158,
+      "title": "Wie wird das Wetter?",
+      "url": "/es/wie-wird-das-wetter/l-50053158",
+      "grammar_count": 1,
+      "vocabulary_count": 29,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50054400,
+      "title": "Das ist jetzt modern",
+      "url": "/es/das-ist-jetzt-modern/l-50054400",
+      "grammar_count": 1,
+      "vocabulary_count": 23,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50077301,
+      "title": "Mein Lieblingspulli",
+      "url": "/es/mein-lieblingspulli/l-50077301",
+      "grammar_count": 2,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50114156,
+      "title": "Das passt gut!",
+      "url": "/es/das-passt-gut/l-50114156",
+      "grammar_count": 2,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50078373,
+      "title": "Schick!",
+      "url": "/es/schick/l-50078373",
+      "grammar_count": 0,
+      "vocabulary_count": 33,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50109190,
+      "title": "Meine Familie",
+      "url": "/es/meine-familie/l-50109190",
+      "grammar_count": 2,
+      "vocabulary_count": 33,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50080303,
+      "title": "Meine Eltern",
+      "url": "/es/meine-eltern/l-50080303",
+      "grammar_count": 2,
+      "vocabulary_count": 13,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50093261,
+      "title": "Meine Tante",
+      "url": "/es/meine-tante/l-50093261",
+      "grammar_count": 1,
+      "vocabulary_count": 25,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50091241,
+      "title": "Mein Bruder",
+      "url": "/es/mein-bruder/l-50091241",
+      "grammar_count": 2,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50094938,
+      "title": "Von Kopf bis Fuß",
+      "url": "/es/von-kopf-bis-fuß/l-50094938",
+      "grammar_count": 1,
+      "vocabulary_count": 39,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50093117,
+      "title": "Bist du fit?",
+      "url": "/es/bist-du-fit/l-50093117",
+      "grammar_count": 3,
+      "vocabulary_count": 20,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50097399,
+      "title": "Fitness",
+      "url": "/es/fitness/l-50097399",
+      "grammar_count": 1,
+      "vocabulary_count": 24,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50093228,
+      "title": "Ist das gesund?",
+      "url": "/es/ist-das-gesund/l-50093228",
+      "grammar_count": 1,
+      "vocabulary_count": 23,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50097898,
+      "title": "Geht es dir gut?",
+      "url": "/es/geht-es-dir-gut/l-50097898",
+      "grammar_count": 1,
+      "vocabulary_count": 28,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50110097,
+      "title": "Beim Arzt",
+      "url": "/es/beim-arzt/l-50110097",
+      "grammar_count": 1,
+      "vocabulary_count": 33,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50095076,
+      "title": "Gute Besserung!",
+      "url": "/es/gute-besserung/l-50095076",
+      "grammar_count": 3,
+      "vocabulary_count": 16,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50096556,
+      "title": "Nehmen Sie …",
+      "url": "/es/nehmen-sie/l-50096556",
+      "grammar_count": 4,
+      "vocabulary_count": 25,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50096356,
+      "title": "Meine Heimat",
+      "url": "/es/meine-heimat/l-50096356",
+      "grammar_count": 3,
+      "vocabulary_count": 15,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50100056,
+      "title": "Leben in Deutschland",
+      "url": "/es/leben-in-deutschland/l-50100056",
+      "grammar_count": 3,
+      "vocabulary_count": 12,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50100364,
+      "title": "Anders als zu Hause",
+      "url": "/es/anders-als-zu-hause/l-50100364",
+      "grammar_count": 0,
+      "vocabulary_count": 11,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50115283,
+      "title": "Ich träume von …",
+      "url": "/es/ich-träume-von/l-50115283",
+      "grammar_count": 3,
+      "vocabulary_count": 14,
+      "regional_studies_count": 1
+    },
+    {
+      "id": 50120911,
+      "title": "Prueba final A1",
+      "url": "/es/prueba-final-a1/l-50120911",
+      "grammar_count": 0,
+      "vocabulary_count": 0,
+      "regional_studies_count": 0
+    }
+  ],
+  "grammar_mapping": [
+    {
+      "lesson_id": 49702751,
+      "lesson_title": "Hallo!",
+      "grammar_id": 49710895,
+      "grammar_title": "Formal e informal",
+      "grammar_url": "/es/formal-e-informal-1/gr-49710895",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49605602,
+      "lesson_title": "Tschüss!",
+      "grammar_id": 49605958,
+      "grammar_title": "Formal e informal",
+      "grammar_url": "/es/formal-e-informal-2/gr-49605958",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49730323,
+      "lesson_title": "Ich heiße Emma",
+      "grammar_id": 49731169,
+      "grammar_title": "Pronombres personales: ich, du",
+      "grammar_url": "/es/pronombres-personales-ich-du/gr-49731169",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49730323,
+      "lesson_title": "Ich heiße Emma",
+      "grammar_id": 49731183,
+      "grammar_title": "Pronombres personales: Sie",
+      "grammar_url": "/es/pronombre-personal-sie/gr-49731183",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49787410,
+      "lesson_title": "Woher kommst du?",
+      "grammar_id": 49788259,
+      "grammar_title": "Conjugación del presente",
+      "grammar_url": "/es/conjugación-del-presente-1/gr-49788259",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49746668,
+      "lesson_title": "Nico hat ein Problem",
+      "grammar_id": 49752817,
+      "grammar_title": "Pronombres personales: er, sie",
+      "grammar_url": "/es/pronombres-personales-er-sie/gr-49752817",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49746668,
+      "lesson_title": "Nico hat ein Problem",
+      "grammar_id": 49752825,
+      "grammar_title": "Pronombres personales: plural",
+      "grammar_url": "/es/pronombres-personales-plural/gr-49752825",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49746668,
+      "lesson_title": "Nico hat ein Problem",
+      "grammar_id": 49752882,
+      "grammar_title": "Conjugación del presente",
+      "grammar_url": "/es/conjugación-del-presente-2/gr-49752882",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49746668,
+      "lesson_title": "Nico hat ein Problem",
+      "grammar_id": 49752923,
+      "grammar_title": "Conjugación: haben",
+      "grammar_url": "/es/conjugación-haben/gr-49752923",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49754892,
+      "lesson_title": "Zahlen von 1 bis 100",
+      "grammar_id": 49755003,
+      "grammar_title": "Números del 11 al 19",
+      "grammar_url": "/es/números-del-11-al-19/gr-49755003",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49754892,
+      "lesson_title": "Zahlen von 1 bis 100",
+      "grammar_id": 49755027,
+      "grammar_title": "Números del 20 al 100",
+      "grammar_url": "/es/números-del-20-al-100/gr-49755027",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49783989,
+      "lesson_title": "Adressen",
+      "grammar_id": 49784906,
+      "grammar_title": "Partículas interrogativas",
+      "grammar_url": "/es/preguntas-con-partículas-interrogativas/gr-49784906",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49783989,
+      "lesson_title": "Adressen",
+      "grammar_id": 49785052,
+      "grammar_title": "Preposiciones: aus",
+      "grammar_url": "/es/preposiciones-aus/gr-49785052",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49783989,
+      "lesson_title": "Adressen",
+      "grammar_id": 49785096,
+      "grammar_title": "Preposiciones: in, an ",
+      "grammar_url": "/es/preposiciones-in-an/gr-49785096",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799978,
+      "lesson_title": "Auf dem Amt",
+      "grammar_id": 49801476,
+      "grammar_title": "Números a partir de 100",
+      "grammar_url": "/es/números-a-partir-de-100/gr-49801476",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799978,
+      "lesson_title": "Auf dem Amt",
+      "grammar_id": 49801513,
+      "grammar_title": "Números a partir de 1000 ",
+      "grammar_url": "/es/números-a-partir-de-1000/gr-49801513",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799978,
+      "lesson_title": "Auf dem Amt",
+      "grammar_id": 49801889,
+      "grammar_title": "Leer números",
+      "grammar_url": "/es/leer-números/gr-49801889",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799978,
+      "lesson_title": "Auf dem Amt",
+      "grammar_id": 49802032,
+      "grammar_title": "Conversaciones formales",
+      "grammar_url": "/es/conversaciones-formales/gr-49802032",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799333,
+      "lesson_title": "Was trinkst du?",
+      "grammar_id": 49801071,
+      "grammar_title": "Nombres: género",
+      "grammar_url": "/es/nombres-género/gr-49801071",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49799333,
+      "lesson_title": "Was trinkst du?",
+      "grammar_id": 49801088,
+      "grammar_title": "Partículas: wer, was",
+      "grammar_url": "/es/partículas-interrogativas-wer-was/gr-49801088",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49811316,
+      "lesson_title": "Eine Pizza bitte! ",
+      "grammar_id": 49813073,
+      "grammar_title": "Cambio de vocal: e  ̶  i",
+      "grammar_url": "/es/cambio-de-vocal-e-̶-i/gr-49813073",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49822240,
+      "lesson_title": "Ich war schon in Berlin",
+      "grammar_id": 49823629,
+      "grammar_title": "Präteritum: sein",
+      "grammar_url": "/es/präteritum-sein/gr-49823629",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49822240,
+      "lesson_title": "Ich war schon in Berlin",
+      "grammar_id": 49823738,
+      "grammar_title": "Preposiciones: in, nach",
+      "grammar_url": "/es/preposiciones-in-nach/gr-49823738",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49827775,
+      "lesson_title": "Wo liegt das?",
+      "grammar_id": 49829038,
+      "grammar_title": "Preguntas y frases enunciativas",
+      "grammar_url": "/es/preguntas-y-frases-enunciativas/gr-49829038",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49826670,
+      "lesson_title": "In Europa",
+      "grammar_id": 49826978,
+      "grammar_title": "Pronombre indefinido: man",
+      "grammar_url": "/es/pronombre-indefinido-man/gr-49826978",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49826670,
+      "lesson_title": "In Europa",
+      "grammar_id": 49827012,
+      "grammar_title": "Sintaxis: frases enunciativas",
+      "grammar_url": "/es/sintaxis-frases-enunciativas/gr-49827012",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49832770,
+      "lesson_title": "Andere Länder",
+      "grammar_id": 49860639,
+      "grammar_title": "Conjugación: sprechen",
+      "grammar_url": "/es/conjugación-sprechen/gr-49860639",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49841260,
+      "lesson_title": "Was ist das?",
+      "grammar_id": 49842750,
+      "grammar_title": "Artículo determinado",
+      "grammar_url": "/es/artículo-determinado/gr-49842750",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49843595,
+      "lesson_title": "Wem gehört das?",
+      "grammar_id": 49844971,
+      "grammar_title": "Artículo indeterminado",
+      "grammar_url": "/es/artículo-indeterminado/gr-49844971",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49843595,
+      "lesson_title": "Wem gehört das?",
+      "grammar_id": 49845183,
+      "grammar_title": "¿Determinado o indeterminado?",
+      "grammar_url": "/es/determinado-o-indeterminado/gr-49845183",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49843595,
+      "lesson_title": "Wem gehört das?",
+      "grammar_id": 49845229,
+      "grammar_title": "Nombres: plural",
+      "grammar_url": "/es/nombres-plural/gr-49845229",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49843595,
+      "lesson_title": "Wem gehört das?",
+      "grammar_id": 49845293,
+      "grammar_title": "Conjugación: lesen",
+      "grammar_url": "/es/conjugación-lesen/gr-49845293",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49862425,
+      "lesson_title": "Ich habe kein …",
+      "grammar_id": 49864384,
+      "grammar_title": "Sintaxis: sujeto",
+      "grammar_url": "/es/sintaxis-sujeto/gr-49864384",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49862425,
+      "lesson_title": "Ich habe kein …",
+      "grammar_id": 49864402,
+      "grammar_title": "Sintaxis: objeto acusativo",
+      "grammar_url": "/es/sintaxis-objeto-acusativo/gr-49864402",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49862425,
+      "lesson_title": "Ich habe kein …",
+      "grammar_id": 49864513,
+      "grammar_title": "Artículo negativo",
+      "grammar_url": "/es/artículo-negativo/gr-49864513",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49867109,
+      "lesson_title": "Das Auto ist rot",
+      "grammar_id": 49868873,
+      "grammar_title": "Adjetivos después de sein",
+      "grammar_url": "/es/adjetivos-después-de-sein/gr-49868873",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49892725,
+      "lesson_title": "So wohne ich",
+      "grammar_id": 49894007,
+      "grammar_title": "Artículos",
+      "grammar_url": "/es/artículos/gr-49894007",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49894943,
+      "lesson_title": "Meine Wohnung",
+      "grammar_id": 49896825,
+      "grammar_title": "Negación: nicht",
+      "grammar_url": "/es/negación-nicht/gr-49896825",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49898917,
+      "lesson_title": "Sofa, Sessel und Tisch",
+      "grammar_id": 49898957,
+      "grammar_title": "zu + adjetivo",
+      "grammar_url": "/es/zu-adjetivo-1/gr-49898957",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49898917,
+      "lesson_title": "Sofa, Sessel und Tisch",
+      "grammar_id": 49898989,
+      "grammar_title": "Palabras compuestas",
+      "grammar_url": "/es/formación-de-palabras-compuestos/gr-49898989",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49926973,
+      "lesson_title": "Unser Haus",
+      "grammar_id": 49927814,
+      "grammar_title": "Determinante posesivo",
+      "grammar_url": "/es/determinante-posesivo-1/gr-49927814",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49905923,
+      "lesson_title": "Emmas Tag",
+      "grammar_id": 49907481,
+      "grammar_title": "La hora: informal",
+      "grammar_url": "/es/la-hora-informal-1/gr-49907481",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49905923,
+      "lesson_title": "Emmas Tag",
+      "grammar_id": 49907582,
+      "grammar_title": "Preposiciones: um, von - bis",
+      "grammar_url": "/es/preposiciones-temporales-um-von-bis/gr-49907582",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49910483,
+      "lesson_title": "Tageszeiten",
+      "grammar_id": 49916751,
+      "grammar_title": "Verbos separables",
+      "grammar_url": "/es/verbos-separables-1/gr-49916751",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49910483,
+      "lesson_title": "Tageszeiten",
+      "grammar_id": 49918261,
+      "grammar_title": "Adverbios: frecuencia",
+      "grammar_url": "/es/adverbios-frecuencia-1/gr-49918261",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49925939,
+      "lesson_title": "Am Sonntag koche ich",
+      "grammar_id": 49927524,
+      "grammar_title": "Preposiciones: an",
+      "grammar_url": "/es/preposición-temporal-an/gr-49927524",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49929779,
+      "lesson_title": "Emmas Wochenende",
+      "grammar_id": 49930462,
+      "grammar_title": "Adverbios: secuencia",
+      "grammar_url": "/es/adverbios-secuencia/gr-49930462",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49929779,
+      "lesson_title": "Emmas Wochenende",
+      "grammar_id": 49930523,
+      "grammar_title": "Cambio de vocal: a - ä",
+      "grammar_url": "/es/cambio-de-vocal-a-ä/gr-49930523",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49909395,
+      "lesson_title": "Wie spät ist es?",
+      "grammar_id": 49918465,
+      "grammar_title": "La hora: formal",
+      "grammar_url": "/es/la-hora-formal/gr-49918465",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49909395,
+      "lesson_title": "Wie spät ist es?",
+      "grammar_id": 49918628,
+      "grammar_title": "La hora: informal",
+      "grammar_url": "/es/la-hora-informal-2/gr-49918628",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49909395,
+      "lesson_title": "Wie spät ist es?",
+      "grammar_id": 49918647,
+      "grammar_title": "Preposiciones temporales",
+      "grammar_url": "/es/preposiciones-temporales/gr-49918647",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49928949,
+      "lesson_title": "Hast du morgen Zeit?",
+      "grammar_id": 49932889,
+      "grammar_title": "Números ordinales",
+      "grammar_url": "/es/números-ordinales/gr-49932889",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49935255,
+      "lesson_title": "Wann spielen wir?",
+      "grammar_id": 49944431,
+      "grammar_title": "Conjugación: können",
+      "grammar_url": "/es/conjugación-können/gr-49944431",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49935255,
+      "lesson_title": "Wann spielen wir?",
+      "grammar_id": 49944441,
+      "grammar_title": "Complementos temporales: dies-/nächst-",
+      "grammar_url": "/es/complementos-temporales-dies-nächst/gr-49944441",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49930428,
+      "lesson_title": "Zu spät!?",
+      "grammar_id": 49931782,
+      "grammar_title": "Präteritum: haben",
+      "grammar_url": "/es/präteritum-haben/gr-49931782",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49942095,
+      "lesson_title": "Ich bin Lehrerin",
+      "grammar_id": 49946103,
+      "grammar_title": "Formar palabras: profesiones",
+      "grammar_url": "/es/formación-de-palabras-las-profesiones/gr-49946103",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49942095,
+      "lesson_title": "Ich bin Lehrerin",
+      "grammar_id": 49946673,
+      "grammar_title": "Determinantes posesivos",
+      "grammar_url": "/es/determinantes-posesivos-2/gr-49946673",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49942245,
+      "lesson_title": "Mein Beruf",
+      "grammar_id": 49943690,
+      "grammar_title": "Verbos modales",
+      "grammar_url": "/es/verbos-modales/gr-49943690",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49942245,
+      "lesson_title": "Mein Beruf",
+      "grammar_id": 49943730,
+      "grammar_title": "Sintaxis: Satzklammer",
+      "grammar_url": "/es/sintaxis-satzklammer/gr-49943730",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49945552,
+      "lesson_title": "Wo ist der Aufzug?",
+      "grammar_id": 50079749,
+      "grammar_title": "Dativo",
+      "grammar_url": "/es/dativo/gr-50079749",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49945552,
+      "lesson_title": "Wo ist der Aufzug?",
+      "grammar_id": 50079752,
+      "grammar_title": "Preposiciones mixtas",
+      "grammar_url": "/es/preposiciones-mixtas-1/gr-50079752",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49992347,
+      "lesson_title": "Traumberufe",
+      "grammar_id": 49992425,
+      "grammar_title": "Verbos modales: wollen",
+      "grammar_url": "/es/verbos-modales-wollen/gr-49992425",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49992347,
+      "lesson_title": "Traumberufe",
+      "grammar_id": 49992519,
+      "grammar_title": "Verbos modales: significado",
+      "grammar_url": "/es/verbos-modales-significado/gr-49992519",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49950325,
+      "lesson_title": "Wo ist der Bahnhof?",
+      "grammar_id": 49950712,
+      "grammar_title": "Preposiciones: bei, von",
+      "grammar_url": "/es/preposiciones-bei-von/gr-49950712",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49950325,
+      "lesson_title": "Wo ist der Bahnhof?",
+      "grammar_id": 49950978,
+      "grammar_title": "Preposiciones: in, an",
+      "grammar_url": "/es/preposiciones-in-an/gr-49950978",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49994814,
+      "lesson_title": "An der Ampel links",
+      "grammar_id": 49995355,
+      "grammar_title": "Preposiciones locales",
+      "grammar_url": "/es/preposiciones-locales-1/gr-49995355",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 49994814,
+      "lesson_title": "An der Ampel links",
+      "grammar_id": 49995443,
+      "grammar_title": "Imperativo: formal",
+      "grammar_url": "/es/imperativo-formal/gr-49995443",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50004815,
+      "lesson_title": "Mit Bus und Bahn",
+      "grammar_id": 50006506,
+      "grammar_title": "Preposiciones: mit",
+      "grammar_url": "/es/preposiciones-mit/gr-50006506",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50012005,
+      "lesson_title": "Im Büro",
+      "grammar_id": 50012708,
+      "grammar_title": "Preposiciones mixtas",
+      "grammar_url": "/es/preposiciones-mixtas-2/gr-50012708",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50024155,
+      "lesson_title": "Lebensmittel",
+      "grammar_id": 50025452,
+      "grammar_title": "Negación: nicht/kein",
+      "grammar_url": "/es/negación-nicht-kein/gr-50025452",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50024155,
+      "lesson_title": "Lebensmittel",
+      "grammar_id": 50025557,
+      "grammar_title": "Nominativo/acusativo",
+      "grammar_url": "/es/nominativo-acusativo/gr-50025557",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50039275,
+      "lesson_title": "Ich mag (nicht)!",
+      "grammar_id": 50039911,
+      "grammar_title": "Comparación",
+      "grammar_url": "/es/comparación-1/gr-50039911",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50039275,
+      "lesson_title": "Ich mag (nicht)!",
+      "grammar_id": 50039928,
+      "grammar_title": "Conjugación: mögen",
+      "grammar_url": "/es/conjugación-mögen/gr-50039928",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50039275,
+      "lesson_title": "Ich mag (nicht)!",
+      "grammar_id": 50039939,
+      "grammar_title": "Partículas interrogativas: welch-",
+      "grammar_url": "/es/partículas-interrogativas-welch/gr-50039939",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50046984,
+      "lesson_title": "Haushaltsarbeit",
+      "grammar_id": 50047837,
+      "grammar_title": "Comparación: wie/als",
+      "grammar_url": "/es/comparación-wie-als/gr-50047837",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50046984,
+      "lesson_title": "Haushaltsarbeit",
+      "grammar_id": 50048006,
+      "grammar_title": "Verbos separables",
+      "grammar_url": "/es/verbos-separables-2/gr-50048006",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50046984,
+      "lesson_title": "Haushaltsarbeit",
+      "grammar_id": 50048085,
+      "grammar_title": "Adverbios: frecuencia",
+      "grammar_url": "/es/adverbios-frecuencia-2/gr-50048085",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50042264,
+      "lesson_title": "Was macht dir Spaß?",
+      "grammar_id": 50043278,
+      "grammar_title": "gehen + infinitivo",
+      "grammar_url": "/es/gehen-infinitivo/gr-50043278",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50042264,
+      "lesson_title": "Was macht dir Spaß?",
+      "grammar_id": 50043298,
+      "grammar_title": "Preguntas cerradas y con partículas interrogativas ",
+      "grammar_url": "/es/preguntas-cerradas-y-con-partículas-interrogativas/gr-50043298",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50048964,
+      "lesson_title": "Mengen und Preise",
+      "grammar_id": 50049314,
+      "grammar_title": "Preposiciones: in, auf",
+      "grammar_url": "/es/preposiciones-locales-in-auf/gr-50049314",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50050417,
+      "lesson_title": "Sonst noch etwas?",
+      "grammar_id": 50053132,
+      "grammar_title": "Part. interrogativas: wie viel",
+      "grammar_url": "/es/partículas-interrogativas-wie-viel/gr-50053132",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50050645,
+      "lesson_title": "Wie viel Mehl?",
+      "grammar_id": 50053022,
+      "grammar_title": "Indicaciones",
+      "grammar_url": "/es/indicaciones/gr-50053022",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50050598,
+      "lesson_title": "Wie war dein Urlaub?",
+      "grammar_id": 50053107,
+      "grammar_title": "Perfekt: verbo auxiliar haben",
+      "grammar_url": "/es/perfekt-verbo-auxiliar-haben/gr-50053107",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50050598,
+      "lesson_title": "Wie war dein Urlaub?",
+      "grammar_id": 50053135,
+      "grammar_title": "Partizip II: regular",
+      "grammar_url": "/es/partizip-ii-regular/gr-50053135",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50050598,
+      "lesson_title": "Wie war dein Urlaub?",
+      "grammar_id": 50053145,
+      "grammar_title": "¿Präteritum o Perfekt?",
+      "grammar_url": "/es/präteritum-o-perfekt/gr-50053145",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50051887,
+      "lesson_title": "Jahreszeiten",
+      "grammar_id": 50053195,
+      "grammar_title": "Comparativos: wie/als",
+      "grammar_url": "/es/comparativos-wie-als/gr-50053195",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50051887,
+      "lesson_title": "Jahreszeiten",
+      "grammar_id": 50053169,
+      "grammar_title": "Comparación",
+      "grammar_url": "/es/comparación-2/gr-50053169",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50051887,
+      "lesson_title": "Jahreszeiten",
+      "grammar_id": 50053206,
+      "grammar_title": "Estaciones del año",
+      "grammar_url": "/es/complementos-temporales-estaciones-del-año/gr-50053206",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095025,
+      "lesson_title": "Der Ausflug",
+      "grammar_id": 50095737,
+      "grammar_title": "Perfekt: verbo auxiliar sein",
+      "grammar_url": "/es/perfekt-verbo-auxiliar-sein/gr-50095737",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095025,
+      "lesson_title": "Der Ausflug",
+      "grammar_id": 50095744,
+      "grammar_title": "Partizip II: irregular ",
+      "grammar_url": "/es/partizip-ii-irregular/gr-50095744",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095025,
+      "lesson_title": "Der Ausflug",
+      "grammar_id": 50095826,
+      "grammar_title": "Partizip II: separable",
+      "grammar_url": "/es/partizip-ii-separable/gr-50095826",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50053158,
+      "lesson_title": "Wie wird das Wetter?",
+      "grammar_id": 50053371,
+      "grammar_title": "Pronombre: es",
+      "grammar_url": "/es/pronombre-es/gr-50053371",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50054400,
+      "lesson_title": "Das ist jetzt modern",
+      "grammar_id": 50056273,
+      "grammar_title": "Declinación del adjetivo",
+      "grammar_url": "/es/declinación-del-adjetivo-1/gr-50056273",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50077301,
+      "lesson_title": "Mein Lieblingspulli",
+      "grammar_id": 50081891,
+      "grammar_title": "Partículas interrogativas: welch-",
+      "grammar_url": "/es/partículas-interrogativas-welch/gr-50081891",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50077301,
+      "lesson_title": "Mein Lieblingspulli",
+      "grammar_id": 50081988,
+      "grammar_title": "Determinante demostrativo: dies-",
+      "grammar_url": "/es/determinante-demostrativo-dies/gr-50081988",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50114156,
+      "lesson_title": "Das passt gut!",
+      "grammar_id": 50120415,
+      "grammar_title": "Verbos con objeto dativo",
+      "grammar_url": "/es/verbos-con-objeto-dativo-1/gr-50120415",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50114156,
+      "lesson_title": "Das passt gut!",
+      "grammar_id": 50120417,
+      "grammar_title": "zu + adjetivo",
+      "grammar_url": "/es/zu-adjetivo-2/gr-50120417",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50109190,
+      "lesson_title": "Meine Familie",
+      "grammar_id": 50109803,
+      "grammar_title": "Declinación de adjetivos",
+      "grammar_url": "/es/declinación-de-adjetivos-2/gr-50109803",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50109190,
+      "lesson_title": "Meine Familie",
+      "grammar_id": 50109837,
+      "grammar_title": "Preposiciones mixtas",
+      "grammar_url": "/es/preposiciones-mixtas/gr-50109837",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50080303,
+      "lesson_title": "Meine Eltern",
+      "grammar_id": 50081878,
+      "grammar_title": "Pron. personales: acusativo",
+      "grammar_url": "/es/pronombres-personales-acusativo/gr-50081878",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50080303,
+      "lesson_title": "Meine Eltern",
+      "grammar_id": 50081892,
+      "grammar_title": "Preposiciones: für",
+      "grammar_url": "/es/preposiciones-für/gr-50081892",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50093261,
+      "lesson_title": "Meine Tante",
+      "grammar_id": 50094858,
+      "grammar_title": "Determinantes posesivos",
+      "grammar_url": "/es/determinantes-posesivos/gr-50094858",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50091241,
+      "lesson_title": "Mein Bruder",
+      "grammar_id": 50093146,
+      "grammar_title": "Verbos modales: sollen",
+      "grammar_url": "/es/verbos-modales-sollen-1/gr-50093146",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50091241,
+      "lesson_title": "Mein Bruder",
+      "grammar_id": 50093158,
+      "grammar_title": "Sintaxis: Satzklammer",
+      "grammar_url": "/es/sintaxis-satzklammer/gr-50093158",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50094938,
+      "lesson_title": "Von Kopf bis Fuß",
+      "grammar_id": 50097338,
+      "grammar_title": "Comparación",
+      "grammar_url": "/es/comparación-3/gr-50097338",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50093117,
+      "lesson_title": "Bist du fit?",
+      "grammar_id": 50094104,
+      "grammar_title": "Temporales: wann...?",
+      "grammar_url": "/es/complementos-temporales-wann/gr-50094104",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50093117,
+      "lesson_title": "Bist du fit?",
+      "grammar_id": 50094124,
+      "grammar_title": "Temporales: Wie oft...?",
+      "grammar_url": "/es/complementos-temporales-wie-oft/gr-50094124",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50093117,
+      "lesson_title": "Bist du fit?",
+      "grammar_id": 50094152,
+      "grammar_title": "Temporales: Wie lange...?",
+      "grammar_url": "/es/complementos-temporales-wie-lange/gr-50094152",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50097399,
+      "lesson_title": "Fitness",
+      "grammar_id": 50109635,
+      "grammar_title": "Comparación",
+      "grammar_url": "/es/comparación-4/gr-50109635",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50093228,
+      "lesson_title": "Ist das gesund?",
+      "grammar_id": 50096206,
+      "grammar_title": "Imperativo: informal",
+      "grammar_url": "/es/imperativo-informal/gr-50096206",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50097898,
+      "lesson_title": "Geht es dir gut?",
+      "grammar_id": 50099212,
+      "grammar_title": "¿Müssen o sollen?",
+      "grammar_url": "/es/müssen-o-sollen/gr-50099212",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50110097,
+      "lesson_title": "Beim Arzt",
+      "grammar_id": 50102206,
+      "grammar_title": "Verbos modales: dürfen",
+      "grammar_url": "/es/verbos-modales-dürfen/gr-50102206",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095076,
+      "lesson_title": "Gute Besserung!",
+      "grammar_id": 50098481,
+      "grammar_title": "Perfekt",
+      "grammar_url": "/es/perfekt/gr-50098481",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095076,
+      "lesson_title": "Gute Besserung!",
+      "grammar_id": 50098505,
+      "grammar_title": "Perfekt: verbo auxiliar",
+      "grammar_url": "/es/perfekt-verbo-auxiliar/gr-50098505",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50095076,
+      "lesson_title": "Gute Besserung!",
+      "grammar_id": 50098571,
+      "grammar_title": "Partizip II",
+      "grammar_url": "/es/partizip-ii/gr-50098571",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096556,
+      "lesson_title": "Nehmen Sie …",
+      "grammar_id": 50097852,
+      "grammar_title": "Preposiciones: vor, nach",
+      "grammar_url": "/es/preposiciones-temporales-vor-nach/gr-50097852",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096556,
+      "lesson_title": "Nehmen Sie …",
+      "grammar_id": 50097890,
+      "grammar_title": "Nominalización",
+      "grammar_url": "/es/nominalización/gr-50097890",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096556,
+      "lesson_title": "Nehmen Sie …",
+      "grammar_id": 50097899,
+      "grammar_title": "Verbos modales: significado",
+      "grammar_url": "/es/verbos-modales-significado/gr-50097899",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096556,
+      "lesson_title": "Nehmen Sie …",
+      "grammar_id": 50097923,
+      "grammar_title": "Verbos modales: conjugación",
+      "grammar_url": "/es/verbos-modales-conjugación/gr-50097923",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096356,
+      "lesson_title": "Meine Heimat",
+      "grammar_id": 50115335,
+      "grammar_title": "Declinación del adjetivo ",
+      "grammar_url": "/es/declinación-del-adjetivo/gr-50115335",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096356,
+      "lesson_title": "Meine Heimat",
+      "grammar_id": 50115376,
+      "grammar_title": "Declinación del adjetivo ",
+      "grammar_url": "/es/declinación-del-adjetivo/gr-50115376",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50096356,
+      "lesson_title": "Meine Heimat",
+      "grammar_id": 50115983,
+      "grammar_title": "Declinación del adjetivo",
+      "grammar_url": "/es/declinación-del-adjetivo/gr-50115983",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50100056,
+      "lesson_title": "Leben in Deutschland",
+      "grammar_id": 50101561,
+      "grammar_title": "Pron. personales: dativo",
+      "grammar_url": "/es/pronombres-personales-dativo/gr-50101561",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50100056,
+      "lesson_title": "Leben in Deutschland",
+      "grammar_id": 50101563,
+      "grammar_title": "Verbos con objeto dativo ",
+      "grammar_url": "/es/verbos-con-objeto-dativo-2/gr-50101563",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50100056,
+      "lesson_title": "Leben in Deutschland",
+      "grammar_id": 50101573,
+      "grammar_title": "Preposiciones + dativo",
+      "grammar_url": "/es/preposiciones-dativo/gr-50101573",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50115283,
+      "lesson_title": "Ich träume von …",
+      "grammar_id": 50115400,
+      "grammar_title": "Konjunktiv II: deseos",
+      "grammar_url": "/es/konjunktiv-ii-deseos-1/gr-50115400",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50115283,
+      "lesson_title": "Ich träume von …",
+      "grammar_id": 50115414,
+      "grammar_title": "Konjuktiv II: deseos",
+      "grammar_url": "/es/konjuktiv-ii-deseos-2/gr-50115414",
+      "has_detail": true
+    },
+    {
+      "lesson_id": 50115283,
+      "lesson_title": "Ich träume von …",
+      "grammar_id": 50115443,
+      "grammar_title": "Konjuktiv II: deseos",
+      "grammar_url": "/es/konjuktiv-ii-deseos-3/gr-50115443",
+      "has_detail": true
+    }
+  ],
+  "stats": {
+    "total_lessons": 77,
+    "lessons_with_grammar": 67,
+    "unique_grammar_lessons": 128
+  }
+}

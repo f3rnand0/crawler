@@ -1,0 +1,37 @@
+# Dativo en lugar de genitivo
+
+**URL:** https://learngerman.dw.com/es/dativo-en-lugar-de-genitivo/gr-51527196
+
+**ID:** 51527196
+
+**Category:** Declinación
+
+## Content
+
+En el idioma hablado se suele usar en vez del genitivo la preposición _von_ \+ dativo.
+
+Genitivo:
+
+_Der Autor**des Buches** ist ein berühmter Schriftsteller._
+
+_von_ \+ dativo:
+
+_Der Autor**von dem Buch** ist ein berühmter Schriftsteller._  
+  
+Cuando el nombre que expresa posesión o pertenencia está en plural y es indeterminado, es decir, no va acompañado ni de un artículo ni de un adjetivo, no puede ir en genitivo. En este caso, usamos _von_ \+ dativo.
+
+Nombres **con** artículo: genitivo
+
+_Das sind die Mikrofone_ **_der Tonassistenten_**. (A specific group of sound engineers is being referred to.)
+
+pero:
+
+Nombres **sin** artículo: _von_ \+ dativo
+
+_Das sind die Mikrofone von**Tonassistenten**._ (Se trata de técnicos de sonido sin determinar, más general).
+
+
+---
+*Category: Declinación*  
+*Grammar ID: 51527196*  
+*Source URL: https://learngerman.dw.com/es/dativo-en-lugar-de-genitivo/gr-51527196*

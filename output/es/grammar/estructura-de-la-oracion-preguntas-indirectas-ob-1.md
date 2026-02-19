@@ -1,0 +1,38 @@
+# Preguntas indirectas: ob
+
+**URL:** https://learngerman.dw.com/es/preguntas-indirectas-ob-1/gr-50257713
+
+**ID:** 50257713
+
+**Category:** Estructura de la oración
+
+## Content
+
+**Preguntas cerradas**
+
+A estas preguntas se puede responder con "Sí" o "No". En este tipo de frase interrogativa, el verbo va en primer lugar. Le sigue el sujeto.
+
+**Hilfst** du _mir?_  
+**Kannst** du _mir eine Webseite erstellen?_
+
+**Preguntas indirectas introducidas por**** _ob_**
+
+Se trata de oraciones subordinadas introducidas por la conjunción _ob._ Con este tipo de frases se pueden formular preguntas indirectas a las que se responde con "Sí" o "No". Con relación a la oración principal, este tipo de frases tienen la función de complemento directo. En estos casos, la oración principal no puede ir sola. Como en todas las subordinadas, el verbo conjugado se coloca al final.
+
+_Ich möchte wissen,_**ob** _du mir_**hilfst** _.  
+Ich habe dich gefragt, _**ob** _du mir eine Webseite erstellen_**kannst** _._
+
+Las preguntas indirectas se utilizan normalmente para expresar un tono más amable y educado. La frase principal puede estar formulada como pregunta con el verbo en primer lugar o como una frase enunciativa. En todo caso expresa que alguien desconoce algo o que quiere saber algo. Pon atención a los signos de puntuación: cuando la oración principal es una frase enunciativa, al final se pone un punto. Si la frase principal es una pregunta, al final va un signo de interrogación.
+
+_Können Sie mir sagen,_**ob** _Sie ein Smartphone_**haben** _?  
+Darf ich Sie fragen, _**ob** _Sie soziale Netzwerke_**nutzen** _?  
+Ich möchte gerne wissen, _**ob** _es hier eine schnelle Internetverbindung_**gibt** _._
+
+Términos gramaticales en alemán: die Satzfrage: es una pregunta cerrada, sin partícula interrogativa, que se puede responder con "Sí" o "No". der Hauptsatz: una oración principal se compone básicamente de un sujeto y un verbo conjugado. El verbo va en la segunda posición. der Nebensatz: una oración subordinada no puede ir sola. Depende de la oración principal o de otra subordinada. En una subordinada, el verbo se coloca casi siempre al final de la frase. Muchas frases subordinadas se unen a la principal mediante una palabra que hace de nexo oracional.  
+---
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 50257713*  
+*Source URL: https://learngerman.dw.com/es/preguntas-indirectas-ob-1/gr-50257713*

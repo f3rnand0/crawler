@@ -1,0 +1,23 @@
+# Partículas: wer, was
+
+**URL:** https://learngerman.dw.com/es/partículas-interrogativas-wer-was/gr-49801088
+
+**ID:** 49801088
+
+**Category:** Estructura de la oración
+
+## Content
+
+Si preguntas por **personas** , usa la partícula interrogativa **_wer_**.  
+  
+Imagen: DW
+
+Si **no** preguntas por **personas** , usa la partícula interrogativa **_was_**.
+
+Imagen: DW
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 49801088*  
+*Source URL: https://learngerman.dw.com/es/partículas-interrogativas-wer-was/gr-49801088*

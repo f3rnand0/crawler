@@ -1,0 +1,39 @@
+# Konjuktiv II: deseos
+
+**URL:** https://learngerman.dw.com/es/konjuktiv-ii-deseos-3/gr-50115443
+
+**ID:** 50115443
+
+**Category:** Verbos
+
+## Content
+
+Todos los verbos tienen una forma propia del _Konjunktiv II_. Sin embargo, en el día a día se emplean principalmente las formas de _haben_ , _sein_ y de los verbos modales. Con otros verbos usamos _würde_ \+ infinitivo.  
+  
+Realidad: Selma **_besucht_** ihre Großeltern nicht.
+
+Deseo: Selma **würde** gern ihre Großeltern **besuchen**.
+
+Realidad: Emma **_isst_** kein Eis.
+
+Deseo: Emma **würde** gern ein Eis **essen**.
+
+La forma _würde_ del _Konjunktiv_ se conjuga, pero el segundo verbo permanece igual:  
+
+
+_Singular_ |   
+---|---  
+1ª persona | _ich würde_  
+2ª persona | _du würdest_  
+3ª persona | _er/sie/es/man würde_  
+_Plural_ |   
+1ª persona | _wir würden_  
+2ª persona | _ihr würdet_  
+3ª persona | _sie würden_  
+_Formal_ | _Sie würden_
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 50115443*  
+*Source URL: https://learngerman.dw.com/es/konjuktiv-ii-deseos-3/gr-50115443*

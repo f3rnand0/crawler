@@ -1,0 +1,40 @@
+# Adjetivos después de sein
+
+**URL:** https://learngerman.dw.com/es/adjetivos-después-de-sein/gr-49868873
+
+**ID:** 49868873
+
+**Category:** Adjetivos y adverbios
+
+## Content
+
+**_Ich bin groß. – Emma ist klein._**
+
+Imagen: DW
+
+****
+
+Los adjetivos describen seres vivos, objetos o situaciones. A menudo aparecen con el verbo _sein_. El adjetivo se coloca, por regla general, después del verbo.
+
+Sujeto |  _sein_ (conjugado) | Adjetivo  
+---|---|---  
+Das Haus | ist | alt.  
+  
+Los adjetivos suelen tener un opuesto, un antónimo. Por ejemplo:
+
+_Nico ist**groß**. – Emma ist **klein**._
+
+_Das Auto ist**alt**. – Das Fahrrad ist **neu**._
+
+_Die Wohnung ist**billig**. – Das Haus ist **teuer**._
+
+Es aconsejable memorizar los adjetivos por parejas de antónimos. Los adjetivos se escriben con minúscula.
+
+Términos gramaticales en alemán: das Adjektiv: los adjetivos son palabras con las que se describen seres vivos, objetos y situaciones.  
+---
+
+
+---
+*Category: Adjetivos y adverbios*  
+*Grammar ID: 49868873*  
+*Source URL: https://learngerman.dw.com/es/adjetivos-después-de-sein/gr-49868873*

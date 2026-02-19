@@ -1,0 +1,25 @@
+# Mensajes sin sujeto
+
+**URL:** https://learngerman.dw.com/es/mensajes-sin-sujeto/gr-50256442
+
+**ID:** 50256442
+
+**Category:** Otros
+
+## Content
+
+**Abreviación de las frases en los mensajes **  
+  
+Cuando se envía un mensaje de texto, a menudo el tiempo apremia o hay que reaccionar rápidamente. Por eso, los mensajes suelen ser cortos. Una característica de este tipo de textos es que ciertas palabras pueden omitirse. A menudo, el sujeto “Ich” desaparece y el verbo inicia la frase con mayúscula inicial.
+
+_(Ich) **Bin** gerade im Supermarkt.  
+(Ich) **Kann** heute nicht kommen.  
+(Ich) **Warte** auf dich._
+
+Esto se suele hacer solamente en mensajes informales y cortos. En el resto de textos, el sujeto normalmente no puede omitirse.
+
+
+---
+*Category: Otros*  
+*Grammar ID: 50256442*  
+*Source URL: https://learngerman.dw.com/es/mensajes-sin-sujeto/gr-50256442*

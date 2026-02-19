@@ -1,0 +1,41 @@
+# Preposiciones: in, an 
+
+**URL:** https://learngerman.dw.com/es/preposiciones-in-an/gr-49785096
+
+**ID:** 49785096
+
+**Category:** Preposiciones
+
+## Content
+
+**_Wo wohnst du? – Ich wohne in …_**  
+  
+Cuando alguien te pregunta dónde vives, puedes responder, por ejemplo, con el nombre de la ciudad o de la calle. Delante de esta se coloca la preposición _in_ :
+
+_Ich wohne in Berlin._
+
+_Ich wohne in der Adalbert-Stifter-Straße._
+
+Cuando quieres contar en qué ciudad vives, tienes que decir:
+
+_Ich wohne in _\+ nombre de la ciudad.
+
+Cuando se trata del nombre de la calle, normalmente dices:
+
+_Ich wohne in der_ \+ nombre de la calle.
+
+Algunos nombres de calles no terminan con _-straße_. En esos casos tienes que prestar atención a la parte final del nombre para saber de qué tipo de calle se trata.
+
+Ich wohne **in der** Adalbert-Stifter-**Straße.**  
+Ich wohne **in der** Adalbert-Stifter-**Gasse.**  
+Ich wohne **in der** Adalbert-Stifter-**Allee.**
+
+Ich wohne**im** Adalbert-Stifter-**Weg.**
+
+Ich wohne**am** Adalbert-Stifter-**Platz.**
+
+
+---
+*Category: Preposiciones*  
+*Grammar ID: 49785096*  
+*Source URL: https://learngerman.dw.com/es/preposiciones-in-an/gr-49785096*

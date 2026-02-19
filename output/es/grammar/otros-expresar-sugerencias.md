@@ -1,0 +1,71 @@
+# Expresar sugerencias
+
+**URL:** https://learngerman.dw.com/es/expresar-sugerencias/gr-51594600
+
+**ID:** 51594600
+
+**Category:** Otros
+
+## Content
+
+Ya conoces varias maneras de hacer propuestas en alemán. Aquí puedes repasar algunas de estas estructuras y puedes aprender nuevas formas de expresar sugerencias.  
+  
+Inge tiene un problema. Jacques no sabe lo mal que cocina.
+
+**Imperativo**
+
+Lisa le aconseja a Inge: **_Sag_** _ihm die Wahrheit!_
+
+El imperativo lo construyes de esta manera:
+
+|  | **Imperativo**  
+---|---|---  
+Informal | (singular) | _Sag!_  
+Informal | (plural) | _Sagt!_  
+Formal |  | _Sagen Sie!_  
+  
+**Sugerencias con _könnte_**
+
+Nico dice: “** _Du könntest_** _das Essen bei Max und Tarek bestellen”._
+
+A menudo las sugerencias se expresan con el verbo modal _können_ en _Konjunktiv II_. Este se forma de la siguiente manera:
+
+_Singular_ |   
+---|---  
+1ª persona | ich könn** _te_**  
+2ª persona | du könn** _te_** st  
+3ª persona | er/sie/es könn** _te_**  
+_Plural_ |   
+1ª persona | wir könn** _te_** n  
+2ª persona | ihr könn** _te_** t  
+3ª persona | sie könn** _te_** n  
+_Formal_ | Sie könn** _te_** _n_  
+  
+  
+Para hacer sugerencias requieres de la segunda persona del singular o del tratamiento formal:
+
+**_Du könntest_** _das Essen bei Max und Tarek bestellen._  
+**_Ihr könntet_** _in ein Restaurant gehen._  
+**_Sie könnten_** _einen Kochkurs besuchen._
+
+Con el verbo _sollen_ has aprendido construcciones semejantes para dar consejos. Compara ambos verbos:
+
+**_Du könntest_** _das Essen bei Max und Tarek bestellen._ (suggestion)  
+**_Du solltest_** _das Essen bei Max und Tarek bestellen._ (emphatic recommendation)  
+
+
+**Sugerencias en plural**
+
+Cuando se trata de tomar una decisión que no te atañe solo a ti, las sugerencias se pueden formular en plural.
+
+Inge tiene un problema. Jacques no sabe lo mal que cocina.  
+Inge podría decirle a Jacques:
+
+**_Wir könnten_** _in ein Restaurant gehen._ (Frase enunciativa)  
+**_Sollen/Wollen wir_** _in ein Restaurant gehen?_ (Frase interrogativa)
+
+
+---
+*Category: Otros*  
+*Grammar ID: 51594600*  
+*Source URL: https://learngerman.dw.com/es/expresar-sugerencias/gr-51594600*

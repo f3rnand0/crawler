@@ -1,0 +1,37 @@
+# zu + adjetivo
+
+**URL:** https://learngerman.dw.com/es/zu-adjetivo-1/gr-49898957
+
+**ID:** 49898957
+
+**Category:** Adjetivos y adverbios
+
+## Content
+
+Imagen: colourbox.de  
+  
+_Wir suchen ein Haus mit vier Zimmern, Küche und Bad._
+
+Imagen: colourbox.de
+
+_Das Haus ist schön. Aber es ist**zu klein**._
+
+Imagen: colourbox.de
+
+_Das Haus ist schön. Aber es ist**zu groß**. Und es ist **zu teuer**!_
+
+Con _zu_ \+ adjetivo se expresa que la medida, el tamaño o la intensidad de algo no son buenos o adecuados.
+
+_Das Haus ist**zu** teuer._
+
+Esto puede significar:
+
+1\. El precio de la casa es desmesuradamente alto.
+
+2\. El precio es correcto, pero no tengo suficiente dinero para pagar la casa.
+
+
+---
+*Category: Adjetivos y adverbios*  
+*Grammar ID: 49898957*  
+*Source URL: https://learngerman.dw.com/es/zu-adjetivo-1/gr-49898957*

@@ -1,0 +1,61 @@
+# Verbos: posición/dirección
+
+**URL:** https://learngerman.dw.com/es/verbos-posición-dirección/gr-50371989
+
+**ID:** 50371989
+
+**Category:** Declinación
+
+## Content
+
+**Verbos de posición + preposición mixta + dativo **  
+  
+El idioma alemán dispone de varios verbos para describir con detalle una posición o una localización espacial. Estos verbos van acompañados, por lo general, de una preposición mixta que va con dativo.
+
+Imagen: colourbox.de
+
+  
+_Der Teddy**sitzt** auf dem Boden._
+
+Imagen: colourbox.de
+
+  
+_Der Teddy**liegt** auf dem Boden._
+
+Imagen: colourbox.de
+
+  
+_Der Teddy**steht** auf dem Boden._
+
+Imagen: colourbox.de
+
+  
+_Der Teddy**hängt** an der Leine._
+
+**Verbos de dirección + acusativo + preposición mixta + acusativo**
+
+Así como los verbos anteriores detallan la localización, otros verbos denotan si alguien o algo se mueve y en qué dirección. La persona u objeto que se mueve es el objeto en acusativo. Luego, a la preposición mixta le sigue un acusativo.
+
+_Emma**setzt** den Teddy auf den Boden.  
+Selma **legt** den Teddy auf den Boden.  
+Nina **stellt** den Teddy auf den Boden.  
+Lisa **hängt** den Teddy auf die Leine._
+
+**El verbo**** _hängen_**
+
+El verbo _hängen_ se puede usar con ambos casos gramaticales: si responde a la pregunta _Wo...?_ , después de la preposición mixta se utiliza el dativo. Si responde a la pregunta _Wohin...?,_ a la preposición mixta sigue un acusativo.
+
+**Tabla general:**
+
+**Wo?** | **Wohin?**  
+---|---  
+_sitzen_ | _setzen_  
+_liegen_ | _legen_  
+_stehen_ | _stellen_  
+_hängen_ | _hängen_
+
+
+---
+*Category: Declinación*  
+*Grammar ID: 50371989*  
+*Source URL: https://learngerman.dw.com/es/verbos-posición-dirección/gr-50371989*

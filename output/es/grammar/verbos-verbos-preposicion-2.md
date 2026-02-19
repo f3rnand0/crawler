@@ -1,0 +1,42 @@
+# Verbos + preposición
+
+**URL:** https://learngerman.dw.com/es/verbos-preposición-2/gr-50211442
+
+**ID:** 50211442
+
+**Category:** Verbos
+
+## Content
+
+**Verbos reflexivos con preposiciones**
+
+Ya has conocido algunos verbos con preposiciones fijas. En estos casos, la preposición sirve para unir el verbo con un objeto. Algunos verbos reflexivos se usan con una preposición fija.
+
+Ya sabes que algunas preposiciones se usan con dativo y otras con acusativo. Si estas preposiciones aparecen solo con determinados verbos, el caso también está definido. Hay que aprenderse esos verbos, por ejemplo:
+
+sich ärgern + **über** \+ acusativo  
+_Inge ärgert sich über die Werbung._
+
+sich informieren + **über** \+ acusativo  
+_Inge informiert sich über den Ausflug._
+
+sich freuen + **über** \+ acusativo (suceso en el **presente**)  
+_Nico freut sich über das WG-Zimmer._
+
+sich freuen + **auf** \+ acusativo (suceso en el **futuro**)  
+_Inge freut sich nicht auf den Ausflug._
+
+sich verlieben + **in** \+ acusativo  
+_Nico hat sich in eine junge Syrerin verliebt._
+
+sich unterscheiden + **in** \+ dativo  
+_Nico und sein Bruder unterscheiden sich in vielen Dingen._
+
+sich interessieren + **für** \+ acusativo  
+_Inge interessiert sich nicht für das Surfen._
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 50211442*  
+*Source URL: https://learngerman.dw.com/es/verbos-preposición-2/gr-50211442*

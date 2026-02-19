@@ -1,0 +1,40 @@
+# Oraciones finales: um ... zu
+
+**URL:** https://learngerman.dw.com/es/oraciones-finales-um-zu/gr-51594225
+
+**ID:** 51594225
+
+**Category:** Estructura de la oración
+
+## Content
+
+**En las oraciones subordinadas finales se usa**** _um ... zu_**  
+  
+Las oraciones subordinadas finales dependen de una oración principal, donde casi siempre se describe una acción.
+
+Acción: _Wir kaufen einen Saugroboter._
+
+La oración subordinada final describe la meta, la intención o el propósito de la acción descrita o de la situación. Va separada por una coma de la oración principal.
+
+_Wir kaufen einen Saugroboter,**um Zeit zu sparen**._
+
+Una oración subordinada final con _um … zu_ se introduce con la conjunción _um_. El verbo de la oración subordinada final aparece al final de la frase. Se usa el infinitivo del verbo (+ _zu_). Es decir, el verbo no se conjuga. Si se trata de un verbo separable, _zu_ se intercala entre el prefijo y el verbo.
+
+_Ich brauche eine große Tasche,**um die leeren Flaschen weg** zu**bringen**._
+
+La oración subordinada final con _um … zu_ no posee sujeto. Por eso, esta estructura es solo posible si el sujeto en la oración principal y en la oración subordinada final es idéntico.
+
+**_Ich_** _hole einen Besen.**Ich** kehre die Terrasse._
+
+**_Ich_** _hole einen Besen, um die Terrasse zu kehren._
+
+Si el sujeto no es idéntico en ambas oraciones, entonces puedes usar una oración subordinada final, introduciendo la conjunción _damit_.
+
+Términos gramaticales en alemán: der Infinitiv: el infinitivo es la forma original del verbo, es decir, sin conjugar. En las listas de vocabulario o en los diccionarios, los verbos aparecen en infinitivo. Los verbos alemanes suelen acabar en _-(e)n_.  
+---
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 51594225*  
+*Source URL: https://learngerman.dw.com/es/oraciones-finales-um-zu/gr-51594225*

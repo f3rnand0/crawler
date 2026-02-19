@@ -1,0 +1,74 @@
+# Preposiciones mixtas
+
+**URL:** https://learngerman.dw.com/es/preposiciones-mixtas-3/gr-50371943
+
+**ID:** 50371943
+
+**Category:** Preposiciones
+
+## Content
+
+**Preposiciones mixtas con acusativo**
+
+La mayoría de las preposiciones rigen siempre el mismo caso gramatical. No obstante, hay preposiciones que pueden regir más de un caso. A veces exigen dativo, a veces acusativo. Por eso se llaman preposiciones mixtas. Hay nueve: _in_ ,_an_ ,_unter_ ,_über_ ,_auf, vor_ ,_hinter_ ,_neben_ y _zwischen._
+
+Van con acusativo cuando denotan una dirección y cuando responden a la pregunta _Wohin?_.
+
+Imagen: DW
+
+**_Wohin_** _legen die Männer das Regal?  
+Sie legen das Regal **in den Lastwagen**._
+
+Selma y su familia empacan sus cosas y las cargan en el camión:
+
+_Ibrahim stellt die Kiste**in den Lastwagen**.  
+Aya stellt den Spiegel **an die Wand**.  
+Selma stellt die Tasche **unter den Tisch**.  
+Aya hängt die Jacken **über den Stuhl**.  
+Selma setzt den Teddy **auf die Tasche**.  
+Ibrahim legt den Teppich **vor den Schrank**.  
+Selma stellt die Stühle **hinter das Regal**.  
+Aya legt die Lampe **neben den Schrank**.  
+Ibrahim stellt die Kiste **zwischen die Stühle**._
+
+**Contracción**
+
+Algunas preposiciones forman una contracción con el artículo que las sigue:
+
+_in + das =**ins**  
+an + das = **ans**_
+
+Es posible que te encuentres en otros contextos con otras contracciones aparte de estas, pero en realidad no se usan mucho.
+
+**Verbos de dirección **
+
+1\. Los verbos _legen_ , _stellen_ y _setzen_ describen un movimiento y exigen casi siempre…
+
+● ... un objeto en acusativo:
+
+_Aya legt**die Bücher** in die Kiste._
+
+● ... un objeto que responda a la pregunta _Wohin...?_
+
+  
+_Aya legt die Bücher**in die Kiste**._
+
+Por eso, estos verbos, por lo general, se combinan con una preposición mixta que exige un acusativo.
+
+2\. También se utilizan las preposiciones mixtas con acusativo cuando se quiere indicar dónde se coloca un objeto. En esos casos se utilizan los verbos _sollen_ (sin un segundo verbo), _kommen_ o _gehören._
+
+_Die Lampe soll**über den Tisch**.  
+Der Teddy kommt **auf das Bett**.  
+Das Familienfoto gehört **an die Wand**._
+
+  
+
+
+Términos gramaticales en alemán: die Wechselpräposition: algunas preposiciones locales son preposiciones mixtas, que pueden ser usadas con dos casos gramaticales. Cuando responden a la pregunta _Wo...?_ requieren un dativo. Cuando responden a la pregunta _Wohin...?_ rigen acusativo.  
+---
+
+
+---
+*Category: Preposiciones*  
+*Grammar ID: 50371943*  
+*Source URL: https://learngerman.dw.com/es/preposiciones-mixtas-3/gr-50371943*

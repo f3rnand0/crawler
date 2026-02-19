@@ -1,0 +1,208 @@
+# All Grammar Lessons
+
+Total: 140
+
+## Verbos
+
+- [Cambio de vocal: a - ä](verbs/49930523.md)
+- [Indicaciones](verbs/50053022.md)
+- [Partizip II: regular](verbs/50053135.md)
+- [Verbos: posición/dirección](verbs/50371989.md)
+- [Verbos impersonales](verbs/50498307.md)
+- [Präteritum: verbos mixtos](verbs/51420515.md)
+- [Conjugación del presente](verbs/49752882.md)
+- [Conjugación: haben](verbs/49752923.md)
+- [Cambio de vocal: e  ̶  i](verbs/49813073.md)
+- [Conjugación: können](verbs/49944431.md)
+- [Imperativo: formal](verbs/49995443.md)
+- [Verbos reflexivos](verbs/50216230.md)
+- [Verbos separables](verbs/50212616.md)
+- [Verbo werden](verbs/51371625.md)
+- [Konjunktiv II: pedir](verbs/51398566.md)
+- [Konjunktiv II: pedir (2)](verbs/51398607.md)
+- [Perfekt: verbo auxiliar sein](verbs/50095737.md)
+- [Imperativo: informal](verbs/50096206.md)
+- [Konjuktiv II: deseos](verbs/50115414.md)
+- [Konjuktiv II: deseos](verbs/50115443.md)
+- [Conjugación: lesen](verbs/49845293.md)
+- [Conjugación: sprechen](verbs/49860639.md)
+- [gehen + infinitivo](verbs/50043278.md)
+- [Conjugación: mögen](verbs/50039928.md)
+- [Verbos + preposición](verbs/50211442.md)
+- [Conjugación: bügeln](verbs/50194621.md)
+- [Voz pasiva](verbs/51592399.md)
+- [Voz pasiva](verbs/51592460.md)
+- [Perfekt: verbo auxiliar haben](verbs/50053107.md)
+- [Konjunktiv II: deseos](verbs/50115400.md)
+- [Verbos con dos objetos](verbs/51471944.md)
+
+## Conjugaciones
+
+- [Partizip II: regular](tenses/50053135.md)
+- [Präteritum: können, wollen](tenses/50498455.md)
+- [Präteritum: müssen, dürfen](tenses/50498510.md)
+- [Präteritum irregular](tenses/51420430.md)
+- [Conjugación del presente](tenses/49752882.md)
+- [Präteritum: haben](tenses/49931782.md)
+- [Präteritum regular](tenses/51366160.md)
+- [Perfekt: verbo auxiliar sein](tenses/50095737.md)
+- [Voz pasiva](tenses/51592460.md)
+- [Präteritum: sein](tenses/49823629.md)
+- [Perfekt: verbo auxiliar haben](tenses/50053107.md)
+- [¿Präteritum o Perfekt?](tenses/50053145.md)
+
+## Sustantivos y artículos
+
+- [Estaciones del año](nounsAndArticles/50053206.md)
+- [Determinante demostrativo: dies-](nounsAndArticles/50081988.md)
+- [Segundo nominativo](nounsAndArticles/50273121.md)
+- [Nominalización](nounsAndArticles/50097890.md)
+- [Topónimos con artículo](nounsAndArticles/50168259.md)
+- [Palabras compuestas](nounsAndArticles/49898989.md)
+- [Artículo indeterminado](nounsAndArticles/49844971.md)
+- [¿Determinado o indeterminado?](nounsAndArticles/49845183.md)
+- [Nombres: plural](nounsAndArticles/49845229.md)
+- [Artículo determinado](nounsAndArticles/49842750.md)
+- [Nombres: género](nounsAndArticles/49801071.md)
+
+## Declinación
+
+- [Pron. personales: acusativo](declination/50081878.md)
+- [Verbos: posición/dirección](declination/50371989.md)
+- [El acusativo](declination/50273278.md)
+- [Expresiones con dativo ](declination/50275906.md)
+- [Segundo nominativo](declination/50273121.md)
+- [Frases de relativo: nominativo](declination/50260011.md)
+- [Frases de relativo: acusativo](declination/50269729.md)
+- [Frases de relativo + preposición](declination/51533609.md)
+- [Frases de relativo + preposición](declination/51523580.md)
+- [Frases de relativo: dativo](declination/51523476.md)
+- [El genitivo](declination/51527085.md)
+- [Dativo en lugar de genitivo](declination/51527196.md)
+- [Pron. personales: dativo](declination/50101561.md)
+- [Preposiciones + dativo](declination/50101573.md)
+- [Dativo](declination/50079749.md)
+- [Verbos con dos objetos](declination/51471944.md)
+- [Sintaxis: pronombres](declination/51503985.md)
+
+## Negación
+
+- [Negación: nicht](negation/49896825.md)
+- [Artículo negativo](negation/49864513.md)
+- [Negación: nicht/kein](negation/50025452.md)
+
+## Pronombre
+
+- [Pron. personales: acusativo](pronoun/50081878.md)
+- [Pronombre: es](pronoun/50053371.md)
+- [Pronombres reflexivos](pronoun/50369811.md)
+- [Partículas interrogativas: casos](pronoun/51434598.md)
+- [Partículas: wer, was](pronoun/49801088.md)
+- [Pronombres indefinidos](pronoun/50216294.md)
+- [Pronombres reflexivos](pronoun/50225134.md)
+- [Pronombres reflexivos (1)](pronoun/50225181.md)
+- [Pron. personales: dativo](pronoun/50101561.md)
+- [Pronombre indefinido: man](pronoun/49826978.md)
+- [Partículas interrogativas: welch-](pronoun/50039939.md)
+- [Pronombres personales: er, sie](pronoun/49752817.md)
+- [Sintaxis: pronombres](pronoun/51503985.md)
+
+## Preposiciones
+
+- [Preposiciones temporales](prepositions/49918647.md)
+- [Preposiciones: um, von - bis](prepositions/49907582.md)
+- [Preposiciones: an](prepositions/49927524.md)
+- [Estaciones del año](prepositions/50053206.md)
+- [Preposiciones: für](prepositions/50081892.md)
+- [Preposiciones mixtas ](prepositions/50371946.md)
+- [Preposiciones: aus](prepositions/49785052.md)
+- [Preposiciones: in, an ](prepositions/49785096.md)
+- [Preposiciones: in, nach](prepositions/49823738.md)
+- [Preposiciones: bei, von](prepositions/49950712.md)
+- [Preposiciones: in, an](prepositions/49950978.md)
+- [Frases de relativo + preposición](prepositions/51533609.md)
+- [Preposiciones + dativo](prepositions/50101573.md)
+- [Topónimos sin artículo](prepositions/50168071.md)
+- [Preposiciones: vor, seit](prepositions/50169876.md)
+- [Preposiciones: mit](prepositions/50006506.md)
+- [Preposiciones de lugar](prepositions/50207874.md)
+- [Preposiciones de lugar](prepositions/50207887.md)
+- [Preposiciones: vor, nach](prepositions/50097852.md)
+- [Preposiciones mixtas](prepositions/50371943.md)
+
+## Adjetivos y adverbios
+
+- [Adverbios: gerne](adjectivesAndAdverbs/50275933.md)
+- [Adverbios preposicionales](adjectivesAndAdverbs/51439813.md)
+- [Complementos temporales: dies-/nächst-](adjectivesAndAdverbs/49944441.md)
+- [Temporales: wie oft...?](adjectivesAndAdverbs/50231022.md)
+- [Temporales: wann...?](adjectivesAndAdverbs/50094104.md)
+- [Temporales: Wie lange...?](adjectivesAndAdverbs/50094152.md)
+- [zu + adjetivo](adjectivesAndAdverbs/50120417.md)
+- [Comparación: wie/als](adjectivesAndAdverbs/50047837.md)
+- [Adverbios: gradación](adjectivesAndAdverbs/51553286.md)
+- [Adjetivos después de sein](adjectivesAndAdverbs/49868873.md)
+- [zu + adjetivo](adjectivesAndAdverbs/49898957.md)
+- [Adverbios: secuencia](adjectivesAndAdverbs/49930462.md)
+- [Adverbios: intensidad  ](adjectivesAndAdverbs/50366786.md)
+
+## Estructura de la oración
+
+- [Frases subordinadas: als](sentenceStructure/50498326.md)
+- [Frases de relativo intercaladas](sentenceStructure/50273099.md)
+- [Unir frases de relativo](sentenceStructure/50274784.md)
+- [Partículas interrogativas: casos](sentenceStructure/51434598.md)
+- [Partículas: wer, was](sentenceStructure/49801088.md)
+- [Partículas interrogativas](sentenceStructure/49784906.md)
+- [Preguntas indirectas: ob](sentenceStructure/50257713.md)
+- [Frases de relativo: nominativo](sentenceStructure/50260011.md)
+- [Frases de relativo: acusativo](sentenceStructure/50269729.md)
+- [Conjunciones: denn](sentenceStructure/51371534.md)
+- [Frases de relativo + preposición](sentenceStructure/51533609.md)
+- [Frases de relativo + preposición](sentenceStructure/51523580.md)
+- [Frases de relativo: dativo](sentenceStructure/51523476.md)
+- [Conjunciones compuestas](sentenceStructure/50168062.md)
+- [Oración subordinada: weil](sentenceStructure/50168330.md)
+- [Oraciones subordinadas: dass](sentenceStructure/50179023.md)
+- [Sintaxis: frases enunciativas](sentenceStructure/49827012.md)
+- [Sintaxis: objeto acusativo](sentenceStructure/49864402.md)
+- [Partículas interrogativas: welch-](sentenceStructure/50039939.md)
+- [Conjunciones: oder](sentenceStructure/50207775.md)
+- [Conjunciones: aber](sentenceStructure/50199395.md)
+- [Interrogativas indirectas](sentenceStructure/50179729.md)
+- [Sintaxis: oraciones subordinadas](sentenceStructure/50181870.md)
+- [Sintaxis: oraciones subordinadas](sentenceStructure/50181887.md)
+- [Sintaxis: Oraciones subordinadas](sentenceStructure/50179904.md)
+- [Oraciones finales: um ... zu](sentenceStructure/51594225.md)
+- [Oraciones finales: damit](sentenceStructure/51594248.md)
+- [Preguntas y frases enunciativas](sentenceStructure/49829038.md)
+- [Sintaxis: sujeto](sentenceStructure/49864384.md)
+- [Part. interrogativas: wie viel](sentenceStructure/50053132.md)
+- [Verbos con dos objetos](sentenceStructure/51471944.md)
+- [Sintaxis: pronombres](sentenceStructure/51503985.md)
+
+## Números
+
+- [La hora: informal](numbers/49918628.md)
+- [Preposiciones: um, von - bis](numbers/49907582.md)
+- [Números a partir de 100](numbers/49801476.md)
+- [Leer números](numbers/49801889.md)
+- [Números del 20 al 100](numbers/49755027.md)
+- [Temporales: wann...?](numbers/50094104.md)
+- [Temporales: Wie lange...?](numbers/50094152.md)
+- [Números del 11 al 19](numbers/49755003.md)
+- [La hora: informal](numbers/49907481.md)
+- [La hora: formal](numbers/49918465.md)
+- [Números ordinales](numbers/49932889.md)
+
+## Ortografía
+
+
+## Otros
+
+- [Estaciones del año](others/50053206.md)
+- [Conversaciones formales](others/49802032.md)
+- [Mensajes sin sujeto](others/50256442.md)
+- [Expresar sugerencias](others/51594600.md)
+- [Formal e informal](others/49605958.md)
+

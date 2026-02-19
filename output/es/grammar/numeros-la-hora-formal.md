@@ -1,0 +1,31 @@
+# La hora: formal
+
+**URL:** https://learngerman.dw.com/es/la-hora-formal/gr-49918465
+
+**ID:** 49918465
+
+**Category:** Números
+
+## Content
+
+Imagen: colourbox.de
+
+_Es ist siebzehn Uhr vierzig._
+
+o:
+
+_Es ist siebzehn Uhr**und** vierzig **Minuten**._
+
+En los medios y en las citas oficiales, la hora se da generalmente de manera formal. Esto significa que:
+
+  * se cuenta en el formato de 24 horas.
+  * a medianoche se puede decir _Es ist null Uhr_ o _Es ist vierundzwanzig Uhr._
+  * primero se mencionan las horas y luego los minutos.
+
+
+
+
+---
+*Category: Números*  
+*Grammar ID: 49918465*  
+*Source URL: https://learngerman.dw.com/es/la-hora-formal/gr-49918465*

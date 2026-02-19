@@ -1,0 +1,57 @@
+# Voz pasiva
+
+**URL:** https://learngerman.dw.com/es/voz-pasiva-2/gr-51592460
+
+**ID:** 51592460
+
+**Category:** Conjugaciones
+
+## Content
+
+**El _Präsens_ en voz pasiva **
+
+Para expresar en voz pasiva una acción que ha tenido lugar en el presente se combina la forma en _Präsens_ del verbo auxiliar _werden._
+
+_Das Essen**wird** von den Kunden über eine App **bestellt**._
+
+_Die Gerichte**werden** mit Yaras Fahrrädern **ausgeliefert**._  
+  
+El verbo _werden_ es irregular:
+
+_Singular:_ |   
+---|---  
+1ª persona | ich werde  
+2ª persona | du **_wirst_**  
+3ª persona | er/sie/es **_wird_**  
+_Plural:_ |   
+1ª persona | wir werden  
+2ª persona | ihr werdet  
+3ª persona | sie werden  
+_Formal:_ | Sie werden  
+  
+**El _Präteritum_ en pasiva **
+
+Si se quiere emplear una acción en voz pasiva para hablar de una acción que tuvo lugar en el pasado, se puede usar el _Präteritum_. El _Präteritum_ en voz pasiva consta del verbo auxiliar _werden_ en _Präteritum_ y el _Partizip II_.
+
+_Das Restaurant „Hiltl“**wurde** 1907 von Ambrosius Hiltl **gekauft**._
+
+_Vegetarische Gerichte**wurden** im Restaurant „Hiltl“ schon im Jahr 1898 **angeboten**._  
+  
+En _Präteritum_ el verbo _werden_ se conjuga así:
+
+_Singular:_ |   
+---|---  
+1ª persona | ich wurde  
+2ª persona | du wurdest  
+3ª persona | er/sie/es wurde  
+_Plural:_ |   
+1ª persona | wir wurden  
+2ª persona | ihr wurdet  
+3ª persona | sie wurden  
+_Formal:_ | Sie wurden
+
+
+---
+*Category: Conjugaciones*  
+*Grammar ID: 51592460*  
+*Source URL: https://learngerman.dw.com/es/voz-pasiva-2/gr-51592460*

@@ -1,0 +1,27 @@
+# Frases de relativo + preposición
+
+**URL:** https://learngerman.dw.com/es/frases-de-relativo-preposición-1/gr-51523580
+
+**ID:** 51523580
+
+**Category:** Estructura de la oración
+
+## Content
+
+**Frases de relativo: pronombres de relativo tras preposiciones en dativo**
+
+Cuando el pronombre de relativo se relaciona con un verbo a través de una preposición, esta preposición aparece en la frase de relativo justo antes del pronombre de relativo. El caso del pronombre de relativo lo rige la preposición. Si el pronombre de relativo va después de una preposición que requiere dativo, entonces debe estar también en dativo.
+
+_Pepe ist Nicos**Bruder**. Er hatte mit **ihm** (= **dem Bruder**) schon oft Streit.  
+Pepe ist Nicos Bruder, mit **dem** er schon oft Streit hatte._  
+  
+_Pepe hat**Bekannte**. Nico kann bei **ihnen** (= **den Bekannten**) ein Praktikum machen.  
+Pepe hat **Bekannte** , bei **denen** Nico ein Praktikum machen kann._
+
+Recuerda que después de las preposiciones _aus_ , _von_ , _bei_ , _zu_ , _mit_ , _ab, nach_ y _seit_ aparece siempre dativo.
+
+
+---
+*Category: Estructura de la oración*  
+*Grammar ID: 51523580*  
+*Source URL: https://learngerman.dw.com/es/frases-de-relativo-preposición-1/gr-51523580*

@@ -1,0 +1,29 @@
+# Adverbios: secuencia
+
+**URL:** https://learngerman.dw.com/es/adverbios-secuencia/gr-49930462
+
+**ID:** 49930462
+
+**Category:** Adjetivos y adverbios
+
+## Content
+
+Si quieres decir en qué orden haces algo, puedes usar adverbios temporales como _zuerst_ ,_dann_ y _danach_.  
+  
+Imagen: DW
+
+**_Zuerst_** _sehen Nico und Emma fern._
+
+**_Dann/Danach_** _essen Nico und Emma Eis.*_
+
+**_Dann/Danach_** _spielen sie zusammen.*_
+
+*Las palabras _dann_ y _danach_ tienen el mismo significado. Da igual si usas primero _dann_ o _danach_.
+
+Los adverbios temporales _zuerst_ , _dann_ y _danach_ suelen estar al comienzo de la frase antes del verbo conjugado.
+
+
+---
+*Category: Adjetivos y adverbios*  
+*Grammar ID: 49930462*  
+*Source URL: https://learngerman.dw.com/es/adverbios-secuencia/gr-49930462*

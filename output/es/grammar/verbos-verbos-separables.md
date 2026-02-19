@@ -1,0 +1,56 @@
+# Verbos separables
+
+**URL:** https://learngerman.dw.com/es/verbos-separables/gr-50212616
+
+**ID:** 50212616
+
+**Category:** Verbos
+
+## Content
+
+**Repaso: verbos separables**
+
+En alemán hay varias posibilidades de combinar un verbo con un prefijo y, con ello, darle al verbo un significado distinto.
+
+_Prefix + verb =_**nuevo verbo**  
+_ab + fahren = **abfahren**  
+zurück + fahren =**zurückfahren**_
+
+Muchos de estos son, entonces, verbos separables. Es decir, en una frase enunciativa simple en presente, el verbo base se conjuga y ocupa la segunda posición. El prefijo va al final.
+
+**_ab|fahren:_**  
+_Der Zug**fährt** um 9:45 Uhr **ab**._
+
+En combinación con un verbo modal, el verbo separable va al final de la frase. El prefijo no se separa.
+
+**_um|steigen:_**  
+_Du**musst** nicht **umsteigen**._
+
+En _Perfekt_ , el verbo separable se conjuga en un _Partizip II_. Entre el prefijo y el verbo se intercala  
+ _-ge-_.
+
+**_weg|fahren:_**  
+_Ich bin schon seit einigen Jahren nicht mehr**weg** ge**fahren**._
+
+A menudo puedes reconocer por el tipo de prefijo si un verbo es separable o no.
+
+  * Los verbos con los prefijos _ab-, an-, auf-, aus-, ein-, mit-, nach-, weg-, zu-_ siempre son separables.
+  * Por el contrario, los verbos con los prefijos _be-, ent-, er-, ver-, zer-_**no** son separables.
+  * Los verbos con los prefijos _durch-, über-, um-, unter-_ pueden ser o no separables.
+
+
+
+Puedes reconocer los verbos separables también por la acentuación. En los separables, la sílaba acentuada (prosódicamente) coincide con el prefijo.
+
+**_auf_** stehen: trennbar
+
+ver** _steh_** en: nicht trennbar
+
+Términos gramaticales en alemán: Das trennbare Verb: los verbos separables llevan un prefijo que, cuando se separa del verbo base, ocupa la última posición en una frase.  
+---
+
+
+---
+*Category: Verbos*  
+*Grammar ID: 50212616*  
+*Source URL: https://learngerman.dw.com/es/verbos-separables/gr-50212616*
