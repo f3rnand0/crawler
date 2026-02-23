@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project output directories (generated files)
+output/
+study_output/
+study-output/
+test_output/
+test-output/
+*output*/
+*/grammar/
+*/lessons/
+*/json/
+*/markdown/

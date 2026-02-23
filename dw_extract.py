@@ -75,6 +75,19 @@ Output Structure:
     )
     
     parser.add_argument(
+        "--format",
+        choices=["markdown", "json", "all"],
+        default="markdown",
+        help="Output format: markdown (enhanced), json, or all (default: markdown)"
+    )
+    
+    parser.add_argument(
+        "--legacy-format",
+        action="store_true",
+        help="Use legacy format instead of enhanced format (default: False)"
+    )
+    
+    parser.add_argument(
         "--version",
         action="version",
         version="%(prog)s 1.0.0"
@@ -99,6 +112,8 @@ Output Structure:
     print(f"Output directory: {output_dir}")
     print(f"Batch size: {args.batch_size}")
     print(f"Keep JSON files: {args.keep_json}")
+    print(f"Format: {args.format}")
+    print(f"Legacy format: {args.legacy_format}")
     print("-" * 60)
     
     try:
@@ -106,7 +121,12 @@ Output Structure:
         exporter = EnhancedExporter()
         
         # Export course
-        results = exporter.export_course_from_url(args.url, str(output_dir))
+        results = exporter.export_course_from_url(
+            args.url, 
+            str(output_dir),
+            formats=[args.format],
+            legacy_format=args.legacy_format
+        )
         
         if not results:
             print("\nError: Export failed. No results returned.")
